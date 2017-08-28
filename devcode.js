@@ -56,7 +56,7 @@ var lectura_pagina_principal = new Promise((resolve, reject) => {
 				var nombre_curso = $(this).find('.course__item_body h3 a').html();
 				var link_curso = $(this).find('.course__item_body h3 a').attr('href');
 				var url_cursos = 'https://devcode.la/cursos' + link_curso.slice(7, -1);   
-				var imagen_curso = $(this).find('.course__item_img a img').attr('src');
+				var imagen_curso = $(this).find('.course__item_img a').attr('href');
 				var nivel_curso = $(this).find('.course__nivel').html();
 				var costo = $(this).find('.course__type').html();
 				var costo_curso
@@ -73,7 +73,7 @@ var lectura_pagina_principal = new Promise((resolve, reject) => {
 					costo_curso: costo_curso,
 				}
 				//cursos_classificacion.push(curso);
-				if(!cursos_lista.includes(curso)){
+				if(!cursos_lista.find(cur => cur.nombre_curso == curso.nombre_curso)){
 					cursos_lista.push(curso)
 				}	
 			});
@@ -135,21 +135,8 @@ lectura_pagina_principal
 		console.log('=======================================================')
 		console.log(' Tenemos la lista vamos a guardar los cursos')
 		console.log('=======================================================')
-		let time = 0;
 		cursos_lista.forEach(function(curso){
-			ordenar(curso,time)
-			time += 1000
-		})	
-	})
-
-function ordenar(curso,time){
-	analizar(curso,time)
-}
-
-function analizar(curso,time){
-	console.log('Este es el tiempo ' + time)
-	setTimeout(function(){
-		request({url: curso.url_curso, encoding: 'utf8' }, function(err, resp, body){
+			request({url: curso.url_curso, encoding: 'utf8' }, function(err, resp, body){
 			if(!err && resp.statusCode == 200){
 				
 				console.log('=======================================================')
@@ -160,8 +147,9 @@ function analizar(curso,time){
 				// Capturamos informacion de cada curso
 				//var imagen_curso = $('.BannerTop-badge-v2 img').attr('src');
 				var description_curso = $('.course__rigth__about__content').html();
+				var imagen =  $('.course__rigth__about__figure img').attr('src');
 				curso.description_curso = description_curso
-				
+				curso.imagen = imagen
 				// BLOQUE DE ACTUALIZACION / CREACION
 
 				if (!fs.readFileSync('json/cursos.json', 'utf8')) {
@@ -192,5 +180,5 @@ function analizar(curso,time){
 				console.log(err)
 			}
 		})
-	},time)
-}
+		})	
+	})	
