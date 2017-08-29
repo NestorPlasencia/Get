@@ -58,12 +58,30 @@ var request = require('request'),
 							url_curso: url_cursos,
 							url_clases: url_clases,
 						}
+
+
+						
 						cursos_classificacion.push(curso);
+
 						if(!cursos_lista.find(cur=> cur.id_curso == curso.id_curso)){
+							curso.clasificacion_curso = []
+							curso.clasificacion_curso.push(clasificacion.nombre_clasificacion)
 							cursos_lista.push(curso)
+						}else{
+							cursos_lista.forEach(function(curso_actual){
+								if(curso_actual.id_curso == curso.id_curso){
+									if(!curso_actual.clasificacion_curso){
+										curso_actual.clasificacion_curso = []
+										curso_actual.clasificacion_curso.push(clasificacion.nombre_clasificacion)
+									}else{
+										curso_actual.clasificacion_curso.push(clasificacion.nombre_clasificacion)
+									}
+								}
+							})
 						}	
 					})
 					clasificacion.cursos_classificacion = cursos_classificacion;				
+					
 					var existe = false
 					clasificaciones_actuales.forEach(function(clasificacion_actual,indice){
 						if( id_clasificacion == clasificacion_actual.id_clasificacion ){
