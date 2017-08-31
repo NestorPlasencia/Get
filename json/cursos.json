@@ -1,1 +1,551 @@
-[{"id_curso":"ZGV2Y29kZTpQcnVlYmFzIFVuaXRhcmlhcyBlbiBKYXZhU2NyaXB0","plataforma_curso":"devcode","nombre_curso":"Pruebas Unitarias en JavaScript","url_curso":"https://devcode.la/cursos/pruebas-unitarias-javascript","imagen_curso":"/cursos/pruebas-unitarias-javascript/","nivel_curso":"Avanzado","description_curso":"En este curso aprenderemos a usar TDD y Jest, conoceremos la anatom&#xED;a de una prueba unitaria, configuraremos Jest con Babel y ES6, crearemos nuestra primera prueba unitaria e implementaremos pruebas con TDD, probaremos c&#xF3;digo as&#xED;ncrono y m&#xE1;s."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBEamFuZ28gMS4xMA==","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Django 1.10","url_curso":"https://devcode.la/cursos/django-fundamentos","imagen_curso":"/cursos/django-fundamentos/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso veremos los Fundamentos de Django 1.10 de la mano del desarrollo de un proyecto, haremos nuestras instalaciones y configuraciones iniciales, abordaremos temas como el panel de administraci&#xF3;n, multiple settings, creaci&#xF3;n de aplicaciones, URLs, vistas, templates, archivos est&#xE1;ticos, autenticaci&#xF3;n y registro de usuarios, entre otros hasta completar nuestro aplicaci&#xF3;n web."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBDU1MgR3JpZA==","plataforma_curso":"devcode","nombre_curso":"Curso de CSS Grid","url_curso":"https://devcode.la/cursos/grid","imagen_curso":"/cursos/grid/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos a utilizar el nuevo m&#xF3;dulo de CSS llamado Grid, conoceremos los conceptos y realizaremos ejemplos de las propiedades grid-container, grid-line, grid-cells, entre otras."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBQcnVlYmFzIFVuaXRhcmlhcyBlbiBQSFA=","plataforma_curso":"devcode","nombre_curso":"Curso de Pruebas Unitarias en PHP","url_curso":"https://devcode.la/cursos/pruebas-unitarias-php","imagen_curso":"/cursos/pruebas-unitarias-php/","nivel_curso":"Avanzado","description_curso":"En este curso aprenderemos a usar PHPUnit, instalaremos PHPUnit y crearemos nuestro primer test, conoceremos la funcionalidad de code coverage, aprenderemos a testear m&#xE9;todos privados, m&#xE9;todos protegiso y clases abstractas y de modo pr&#xE1;ctico emularemos resultados y aprenderemos a mockear."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBJbGx1c3RyYXRvcg==","plataforma_curso":"devcode","nombre_curso":"Curso de Illustrator","url_curso":"https://devcode.la/cursos/illustrator","imagen_curso":"/cursos/illustrator/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprender&#xE1;s a utilizar las herramientas y par&#xE1;metros de Adobe IIlustrator desde cero a trav&#xE9;s de 19 cap&#xED;tulos pr&#xE1;cticos, desarrollando una modalidad de trabajo fluido y ordenado que te permitir&#xE1; iniciarte eficientemente en el &#xE1;rea de dise&#xF1;o."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBCb290c3RyYXAgNA==","plataforma_curso":"devcode","nombre_curso":"Curso de Bootstrap 4","url_curso":"https://devcode.la/cursos/bootstrap-4","imagen_curso":"/cursos/bootstrap-4/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos a crear nuestro primer sitio web utilizando Bootstrap 4, conoceremos el sistema grid, clases responsive y utilidades responsive. Asimismo, utilizaremos componentes como navbar, slider, sidebar, cards, modal, jumbotron, entre otros."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBBbmltYWNpb25lcyBTVkcgY29uIENTUzM=","plataforma_curso":"devcode","nombre_curso":"Curso de Animaciones SVG con CSS3","url_curso":"https://devcode.la/cursos/animaciones-svg","imagen_curso":"/cursos/animaciones-svg/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos a crear animaciones SVG, conoceremos la propiedad transition y las transiciones con fill y stroke, la propiedad transform y las transformaciones con rotate y scale, as&#xED; como animaciones con dasharray y dashoffset entre otros."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBHTlUvTGludXggYiYjeEUxO3NpY28=","plataforma_curso":"devcode","nombre_curso":"Curso de GNU/Linux b&#xE1;sico","url_curso":"https://devcode.la/cursos/linux","imagen_curso":"/cursos/linux/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos qu&#xE9; es GNU/Linux, requerimientos y proceso de instalaci&#xF3;n, gesti&#xF3;n de paquetes RPM, gesti&#xF3;n de paquetes DEB y el manejo de la l&#xED;nea de comandos."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBEaXNlJiN4RjE7byBkZSBJbnRlcmZhY2VzIChVSSk=","plataforma_curso":"devcode","nombre_curso":"Curso de Dise&#xF1;o de Interfaces (UI)","url_curso":"https://devcode.la/cursos/ui","imagen_curso":"/cursos/ui/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos el dise&#xF1;o de interfaces a trav&#xE9;s de conceptos como UI, UX, Arquitectura de la informaci&#xF3;n, Usabilidad, Dise&#xF1;o Web Responsive, Dise&#xF1;o de aplicaciones m&#xF3;viles, Conceptualizaci&#xF3;n, Definici&#xF3;n, Dise&#xF1;o y Desarrollo materializado en la creaci&#xF3;n de un flujo de navegaci&#xF3;n, moodboard, wireframes, dise&#xF1;os y prototipado de un proyecto."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBXb29jb21tZXJjZQ==","plataforma_curso":"devcode","nombre_curso":"Curso de Woocommerce","url_curso":"https://devcode.la/cursos/woocommerce","imagen_curso":"/cursos/woocommerce/","nivel_curso":"Intermedio","description_curso":"WooCommerce nos ofrece una plataforma de administraci&#xF3;n de tiendas para productos tanto f&#xED;sicos como digitales y todo esto con la facilidad que WordPress nos acostumbra. En el curso aprender&#xE1;s las bases de WooCommerce, crear productos, administrar las ventas y como configurar tu tienda sacarle el m&#xE1;ximo provecho, adem&#xE1;s veremos c&#xF3;mo combinarlo con servicios externos para procesamiento de pago, suscripciones de clientes, entre otros."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBQaG90b3Nob3AgYiYjeEUxO3NpY28=","plataforma_curso":"devcode","nombre_curso":"Curso de Photoshop b&#xE1;sico","url_curso":"https://devcode.la/cursos/photoshop","imagen_curso":"/cursos/photoshop/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos a dominar Photoshop desde cero, conoceremos el uso de sus herramientas b&#xE1;sicas tales como Marquee, Lasso, Varita M&#xE1;gica, Crop Tool, Pincel, L&#xE1;piz, Borrador, Pluma, Forma, Capas, M&#xE1;scaras entre otras y lo m&#xE1;s importante es que desarrollaremos una modalidad de trabajo ordenado."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBMYXJhdmVs","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Laravel","url_curso":"https://devcode.la/cursos/laravel","imagen_curso":"/cursos/laravel/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos a desarrollar aplicaciones en Laravel 5.4, la &#xFA;ltima versi&#xF3;n del framework de mayor crecimiento de PHP. Alistaremos nuestro entorno de trabajo, conoceremos la estructura de una aplicaci&#xF3;n Laravel, rutas, controladores, vistas, form requests, validaciones, migraciones, seeders y m&#xE1;s. Crearemos un proyecto similar a Reddit en el cual aplicaremos los conceptos aprendidos hasta la autenticaci&#xF3;n y protecci&#xF3;n de rutas."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBQT08gZW4gSmF2YVNjcmlwdA==","plataforma_curso":"devcode","nombre_curso":"Curso de POO en JavaScript","url_curso":"https://devcode.la/cursos/poo-javascript","imagen_curso":"/cursos/poo-javascript/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos c&#xF3;mo escribir c&#xF3;digo m&#xE1;s claro, flexible y eficiente utilizando conceptos claves de JavaScript como objetos, funciones, prototipos y herencia. Adem&#xE1;s revisaremos con mayor detalle la nueva sintaxis de ES6 para crear clases."},{"id_curso":"ZGV2Y29kZTpEZXNhcnJvbGxvIGRlIHBsdWdpbnMgcGFyYSBXb3JkUHJlc3M=","plataforma_curso":"devcode","nombre_curso":"Desarrollo de plugins para WordPress","url_curso":"https://devcode.la/cursos/plugins-wordpress","imagen_curso":"/cursos/plugins-wordpress/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos a realizar las configuraciones iniciales de nuestro plugin, agregaremos los estilos, scripts y guardaremos datos, crearemos metaboxes en los formularios y m&#xE1;s para luego aprender como subir nuestro plugin al repositorio oficial de WordPress y comercializarlo."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBBSkFYIHkgalF1ZXJ5IDM=","plataforma_curso":"devcode","nombre_curso":"Curso de AJAX y jQuery 3","url_curso":"https://devcode.la/cursos/ajax-jquery","imagen_curso":"/cursos/ajax-jquery/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos a usar AJAX, prepararemos nuestro entorno de trabajo y realizaremos un ejemplo, veremos los m&#xE9;todos GET y POST, el formato de respuesta y limitaciones de seguridad en AJAX. Exploraremos JSON, manipulaci&#xF3;n de AJAX y AJAX con jQuery hasta manipulaci&#xF3;n de errores."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBMdW1lbg==","plataforma_curso":"devcode","nombre_curso":"Curso de Lumen","url_curso":"https://devcode.la/cursos/lumen","imagen_curso":"/cursos/lumen/","nivel_curso":"Intermedio","description_curso":"En el presente curso aprenderemos c&#xF3;mo construir microservicios y APIs empleando Lumen, el microframework de Laravel, conoceremos la estructura de Lumen, rutas HTTP, comandos Artisan, realizaremos la conexi&#xF3;n con base de datos y migraciones, veremos los controladores, entidades, Repositorios e inyecci&#xF3;n de dependencias y m&#xE1;s hasta ver variables globales y seguridad de la API."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBBbmRyb2lk","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Android","url_curso":"https://devcode.la/cursos/android","imagen_curso":"/cursos/android/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso realizaremos nuestros primeros pasos en Android, prepararemos nuestro entorno de desarrollo, conoceremos Android Studio, la estructura de una aplicaci&#xF3;n en Android y Gradle. Cubriremos conceptos como layouts, actividades, intents, componentes gr&#xE1;ficos, eventos, recursos y m&#xE1;s, todo acompa&#xF1;ado de un proyecto llamado &quot;Cashflow&quot; el cual firmaremos y subiremos a la Play Store."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBTZWxlbml1bQ==","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Selenium","url_curso":"https://devcode.la/cursos/selenium","imagen_curso":"/cursos/selenium/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprendremos qu&#xE9; es el aseguramiento de la calidad del software, qu&#xE9; son las pruebas automatizadas y pruebas manuales, instalaremos Selenium IDE y usaremos tambi&#xE9;n Firebug para crear scripts de Selenium. Veremos tipos de localizadores, localizaremos elementos con Firepath, haremos validaciones, depuraremos pruebas y m&#xE1;s todo haciendo un ejercicio de pruebas con un sitio web de adopci&#xF3;n de mascotas"},{"id_curso":"ZGV2Y29kZTpOb2RlLmpzIEF2YW56YWRv","plataforma_curso":"devcode","nombre_curso":"Node.js Avanzado","url_curso":"https://devcode.la/cursos/nodejs-avanzado","imagen_curso":"/cursos/nodejs-avanzado/","nivel_curso":"Avanzado","description_curso":"Aprende el manejo de promesas, streams, internacionalizaci&#xF3;n y dem&#xE1;s m&#xF3;dulos de npm, adem&#xE1;s conoce las mejores practicas para el desarrollo en Node"},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBSZWFjdA==","plataforma_curso":"devcode","nombre_curso":"Fundamentos de React","url_curso":"https://devcode.la/cursos/react","imagen_curso":"/cursos/react/","nivel_curso":"Intermedio","description_curso":"En este curso realizaremos nuestros primeros pasos en React, conoceremos qu&#xE9; es React, aprenderemos a trabajar con webpack, veremos componentes, m&#xFA;ltiples componentes, estados, props y m&#xE1;s, adem&#xE1;s de aprender los conceptos de la mano de la creaci&#xF3;n de un To Do List."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBHaXQgeSBHaXRIdWI=","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Git y GitHub","url_curso":"https://devcode.la/cursos/git","imagen_curso":"/cursos/git/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos los conceptos fundamentales del control de versiones utilizando Git, haremos la instalaci&#xF3;n y configuraci&#xF3;n para luego aprender a ejecutar sus comandos m&#xE1;s usuales tales como inicializar un repositorio, a&#xF1;adir archivos, status y commit, usar el entorno staging, ignorar archivos, usar ramas entre otros. Tambi&#xE9;n compartiremos proyectos en la nube utilizando GitHub."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBQeXRob24gMw==","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Python 3","url_curso":"https://devcode.la/cursos/python-3","imagen_curso":"/cursos/python-3/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso realizaremos nuestros primeros pasos en Python 3, conoceremos su sintaxis, variables, tipos de datos y casting, funciones, listas, diccionarios, tuplas y m&#xE1;s. Asimismo conoceremos las buenas pr&#xE1;cticas en Python 3."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBHcnVudA==","plataforma_curso":"devcode","nombre_curso":"Curso de Grunt","url_curso":"https://devcode.la/cursos/grunt","imagen_curso":"/cursos/grunt/","nivel_curso":"Intermedio","description_curso":"En este curso entenderemos qu&#xE9; es Grunt y para qu&#xE9; sirve. Aprenderemos a utilizar esta librer&#xED;a paso a paso, aprendiendo sus partes, y utilizaremos lo aprendido para automatizar las tareas de un proyecto."},{"id_curso":"ZGV2Y29kZTpDcmVhY2kmI3hGMztuIGRlIHRlbWFzIHBhcmEgV29yZFByZXNz","plataforma_curso":"devcode","nombre_curso":"Creaci&#xF3;n de temas para WordPress","url_curso":"https://devcode.la/cursos/creacion-temas-para-wordpress","imagen_curso":"/cursos/creacion-temas-para-wordpress/","nivel_curso":"Intermedio","description_curso":"En este curso de WordPress conoceremos su estructura de archivos y carpetas, el uso del Codex, los archivos necesarios para la creaci&#xF3;n de un tema, daremos estilos al tema, veremos lo relacionado a im&#xE1;genes, men&#xFA;, widgets, comentarios y m&#xE1;s hasta terminar nuestra plantilla hecha desde cero en WordPress."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBEamFuZ28gMS42","plataforma_curso":"devcode","nombre_curso":"Curso de Django 1.6","url_curso":"https://devcode.la/cursos/django-16","imagen_curso":"/cursos/django-16/","nivel_curso":"Intermedio","description_curso":"En este curso aprender&#xE1;s a crear aplicaciones web con Django, el framework m&#xE1;s popular de Python. Django te permite crear aplicaciones robustas con un c&#xF3;digo ordenado y sencillo, y su curva de aprendizaje es muy corta.\nAplicaciones web como Pinterest, Instagram o Disqus han sido desarrolladas en Django. T&#xFA; tambi&#xE9;n podr&#xE1;s desarrollar tu propia aplicaci&#xF3;n web, pues en este curso no solo aprenderemos desde cero hasta un nivel avanzado, sino que tambi&#xE9;n realizaremos un proyecto real que te permitir&#xE1; fijar tus conocimientos."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBKYXZhU2NyaXB0","plataforma_curso":"devcode","nombre_curso":"Fundamentos de JavaScript","url_curso":"https://devcode.la/cursos/javascript-fundamentos","imagen_curso":"/cursos/javascript-fundamentos/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso realizaremos nuestros primeros pasos en JavaScript, conoceremos su sintaxis, manejaremos la consola JavaScript, veremos los tipos de datos, operadores y estructuras de control."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBQT08gZW4gUEhQ","plataforma_curso":"devcode","nombre_curso":"Curso de POO en PHP","url_curso":"https://devcode.la/cursos/poo-php","imagen_curso":"/cursos/poo-php/","nivel_curso":"Intermedio","description_curso":"En el presente curso prepararemos nuestro entorno de desarrollo, conoceremos el paradigma Programaci&#xF3;n Orientada a Objetos, la sintaxis b&#xE1;sica y el est&#xE1;ndar de programaci&#xF3;n PSR-2. Tambi&#xE9;n crearemos nuestra primera clase e instanciaremos nuestro primer objeto, implementaremos la encapsulaci&#xF3;n y abstracci&#xF3;n. Adem&#xE1;s conoceremos los m&#xE9;todos m&#xE1;gicos, herencias, constructores, destructores y m&#xE1;s."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBXb3JkUHJlc3M=","plataforma_curso":"devcode","nombre_curso":"Fundamentos de WordPress","url_curso":"https://devcode.la/cursos/wordpress-fundamentos","imagen_curso":"/cursos/wordpress-fundamentos/","nivel_curso":"B&#xE1;sico","description_curso":"WordPress es un CMS (Sistema Gestor de Contenidos) sencillo y f&#xE1;cil de aprender con el que podr&#xE1;s crear tu primer blog o sitio web. Ideal si no tienes experiencia previa en programaci&#xF3;n.\nEn este curso conoceremos sus fundamentos, su panel de administraci&#xF3;n, taxonom&#xED;a, comentarios, apariencia, uso de plugins, gesti&#xF3;n de usuarios, herramientas y ajustes, todos estos temas aplicados en la creaci&#xF3;n de un blog profesional."},{"id_curso":"ZGV2Y29kZTpBUElzIGVuIFJ1Ynkgb24gUmFpbHM=","plataforma_curso":"devcode","nombre_curso":"APIs en Ruby on Rails","url_curso":"https://devcode.la/cursos/apis-en-ruby-on-rails","imagen_curso":"/cursos/apis-en-ruby-on-rails/","nivel_curso":"Avanzado","description_curso":"API REST en Ruby on Rails nos permite crear servicios y aplicaciones que puedan ser usadas por cualquier dispositivo o cliente que entienda HTTP, como respuesta a la consulta sobre el REST API se obtienen datos en diferentes formatos, como pueden ser texto plano, XML, JSON, etc."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBCYXNlIGRlIERhdG9zIGVuIE15U1FM","plataforma_curso":"devcode","nombre_curso":"Curso de Base de Datos en MySQL","url_curso":"https://devcode.la/cursos/base-de-datos","imagen_curso":"/cursos/base-de-datos/","nivel_curso":"Intermedio","description_curso":"En este curso instalaremos y crearemos unos usuarios b&#xE1;sicos en MySQL y usaremos la herramienta MySQL Workbench. Veremos las sentencia DDL y DML, crearemos una base de datos utilizando buenas gu&#xED;as para crearlas y dise&#xF1;arlas. Tambi&#xE9;n conoceremos los tipos de datos b&#xE1;sicos y funciones para operar con datos."},{"id_curso":"ZGV2Y29kZTpDJiN4RjM7bW8gY3JlYXIgdW5hIHAmI3hFMTtnaW5hIHdlYg==","plataforma_curso":"devcode","nombre_curso":"C&#xF3;mo crear una p&#xE1;gina web","url_curso":"https://devcode.la/cursos/como-crear-una-pagina-web","imagen_curso":"/cursos/como-crear-una-pagina-web/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos a crear un sitio web desde cero y aplicaremos conceptos b&#xE1;sicos de HTML, CSS, Responsive Web Design y PHP para crear una p&#xE1;gina web ideal para un negocio, empresa o para tu propio portafolio."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBBbmd1bGFyIDI=","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Angular 2","url_curso":"https://devcode.la/cursos/angular-2-fundamentos","imagen_curso":"/cursos/angular-2-fundamentos/","nivel_curso":"Intermedio","description_curso":"En este curso veremos los Fundamentos de Angular 2, conoceremos la anatom&#xED;a de una aplicaci&#xF3;n en Angular, crearemos componentes, usaremos decoradores como metadata, componentes como directivas, construiremos servicios, configuraremos rutas, pasaremos par&#xE1;metros a una ruta hasta configurar totalmente nuestro primer proyecto en Angular 2."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBqUXVlcnk=","plataforma_curso":"devcode","nombre_curso":"Curso de jQuery","url_curso":"https://devcode.la/cursos/jquery","imagen_curso":"/cursos/jquery/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos a extender las funcionalidades de JavaScript con JQuery, librer&#xED;a que te facilitar&#xE1; el manejo de eventos, desarrollar animaciones y realizar interacciones con la t&#xE9;cnica AJAX dentro de la web, crando as&#xED; sitios m&#xE1;s din&#xE1;micos."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBKYXZh","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Java","url_curso":"https://devcode.la/cursos/fundamentos-java","imagen_curso":"/cursos/fundamentos-java/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso gratuito utilizando Java 8 daremos un vistazo a conceptos b&#xE1;sicos de programaci&#xF3;n tales como variables, ciclos y sentencias de control que son el bloque de construcci&#xF3;n de cualquier aplicaci&#xF3;n en Java, as&#xED; mismo crearemos un juego y haremos todo esto con buenas pr&#xE1;cticas de programaci&#xF3;n para que nuestra aplicaci&#xF3;n sea entendible, f&#xE1;cil de mantener y tenga una l&#xF3;gica bien estructurada."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBOb2RlLmpz","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Node.js","url_curso":"https://devcode.la/cursos/fundamentos-nodejs","imagen_curso":"/cursos/fundamentos-nodejs/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos las fundamentos para poder desarrollar aplicaciones web en Node.js, el curso ir&#xE1; desde cero, desarrollando un proyecto real que nos permitir&#xE1; aplicar los conocimientos obtenidos.\nNode.js es una plataforma que nos permite utilizar JavaScript desde el lado del servidor. Solo necesitas tener conocimientos previos de este lenguaje. Si no los tienes, te recomendamos seguir nuestro curso de JavaScript dentro de la plataforma."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBCb290c3RyYXAgMw==","plataforma_curso":"devcode","nombre_curso":"Curso de Bootstrap 3","url_curso":"https://devcode.la/cursos/bootstrap3","imagen_curso":"/cursos/bootstrap3/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprender&#xE1;s a dise&#xF1;ar aplicaciones web en Bootstrap 3 o Bootstrap Twiiter. Este popular framework frontend te permite crear un sitio web r&#xE1;pidamente y personalizar los elementos de manera sencilla\nLo &#xFA;nico que necesitas para empezar a trabajar con este framework es tener conocimientos previos de HTML, CSS y JavaScript. Si a&#xFA;n no conoces estos lenguajes, te invitamos a seguir nuestros cursos de HTML, CSS y JavaScript en la plataforma."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBIVE1MIHkgQ1NTIEdyYXRpcw==","plataforma_curso":"devcode","nombre_curso":"Curso de HTML y CSS Gratis","url_curso":"https://devcode.la/cursos/html-css","imagen_curso":"/cursos/html-css/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos gratis a maquetar sitios Web con HTML5 y a brindar estilos con CSS. No necesitas conocimientos previos, pues empezaremos desde cero con una serie de ejemplos pr&#xE1;cticos y al t&#xE9;rmino del curso, desarrollaremos un proyecto real en el cual aplicaremos todo lo aprendido"},{"id_curso":"ZGV2Y29kZTpBUElzIGRlIEhUTUw1","plataforma_curso":"devcode","nombre_curso":"APIs de HTML5","url_curso":"https://devcode.la/cursos/apis-html5","imagen_curso":"/cursos/apis-html5/","nivel_curso":"Intermedio","description_curso":"En este curso aprender&#xE1;s algunas de las novedades que nos proporciona HTML5, tales como la API de Canvas, la API de Media, la API de Geolocation con la cual obtendremos los datos de altitud y longitud de un usuario y mostraremos su ubicaci&#xF3;n en un mapa y la API de Web Storage que se divide en Local Storage y Session Storage."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBiJiN4RTE7c2ljbyBkZSBBbmRyb2lk","plataforma_curso":"devcode","nombre_curso":"Curso b&#xE1;sico de Android","url_curso":"https://devcode.la/cursos/curso-basico-de-android","imagen_curso":"/cursos/curso-basico-de-android/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso b&#xE1;sico gratuito construiremos nuestra primera aplicaci&#xF3;n para Android, aprendiendo sobre Layouts, TextView y EditText, ImageView, tipos de botones, introducci&#xF3;n a java, cron&#xF3;metro inverso y m&#xE9;todo comparar."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBUeXBlU2NyaXB0","plataforma_curso":"devcode","nombre_curso":"Curso de TypeScript","url_curso":"https://devcode.la/cursos/typescript","imagen_curso":"/cursos/typescript/","nivel_curso":"Intermedio","description_curso":"En este curso aprender&#xE1;s la sintaxis y caracter&#xED;sticas de este grandioso lenguaje recomendado para desarrollar aplicaciones en AngularJS 2."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBiJiN4RTE7c2ljbyBkZSBSZXNwb25zaXZlIFdlYiBEZXNpZ24=","plataforma_curso":"devcode","nombre_curso":"Curso b&#xE1;sico de Responsive Web Design","url_curso":"https://devcode.la/cursos/curso-basico-de-responsive-web-design","imagen_curso":"/cursos/curso-basico-de-responsive-web-design/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso b&#xE1;sico gratuito daremos una introducci&#xF3;n a la filosof&#xED;a del dise&#xF1;o responsive, aprendiendo las caracter&#xED;sticas fundamentales. Una vez terminado este curso, te invitamos a nuestro curso profesional de Responsive Web Design, en el que podremos revisar cada tema con mayor profundidad y plasmarlo en un proyecto real."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBFQ01BU2NyaXB0IDY=","plataforma_curso":"devcode","nombre_curso":"Fundamentos de ECMAScript 6","url_curso":"https://devcode.la/cursos/fundamentos-ecmascript-6","imagen_curso":"/cursos/fundamentos-ecmascript-6/","nivel_curso":"Intermedio","description_curso":"En este curso aprender&#xE1;s el uso de la nueva sintaxis y las mejoras en el lenguaje introducidas por ES6. Asimismo, utilizaremos Babel como compilador de JavaScript."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBSdWJ5IG9uIFJhaWxz","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Ruby on Rails","url_curso":"https://devcode.la/cursos/fundamentos-de-ror","imagen_curso":"/cursos/fundamentos-de-ror/","nivel_curso":"B&#xE1;sico","description_curso":"Ruby on Rails es el framework m&#xE1;s popular y utilizado de Ruby, que se basa en dos principios, el primero DRY que quiere decir que nuestro c&#xF3;digo debe ser reusable y no estar duplicando el segundo es Convention Over Configuration que significa que Rails hace algunas suposiciones sobre lo que t&#xFA; quieres hacer y c&#xF3;mo vas a hacerlo."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBiJiN4RTE7c2ljbyBkZSBCYWNrYm9uZS5qcw==","plataforma_curso":"devcode","nombre_curso":"Curso b&#xE1;sico de Backbone.js","url_curso":"https://devcode.la/cursos/curso-basico-de-backbonejs","imagen_curso":"/cursos/curso-basico-de-backbonejs/","nivel_curso":"Intermedio","description_curso":"En este curso b&#xE1;sico gratuito aprenderemos los elementos fundamentales de Backbone.js como modelos, vistas y colecciones construyendo nuestra primera aplicaci&#xF3;n. Si deseas ver temas m&#xE1;s avanzados y aprender Backbone.js con mayor profundidad, te invitamos a nuestro curso profesional de Backbone.js"},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBpT1M=","plataforma_curso":"devcode","nombre_curso":"Curso de iOS","url_curso":"https://devcode.la/cursos/curso-ios","imagen_curso":"/cursos/curso-ios/","nivel_curso":"Intermedio","description_curso":"Crea proyectos nuevos de iOS para iPhone, y comprende el patr&#xF3;n MVC en iOS. Conoce los conceptos del ciclo de vida de una pantalla y env&#xED;a datos entre pantallas, dominando los conceptos b&#xE1;sico de Autolayout. Adem&#xE1;s maneja datos por medio de tablas y crea celdas personalizadas"},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBSdWJ5","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Ruby","url_curso":"https://devcode.la/cursos/fundamentos-de-ruby","imagen_curso":"/cursos/fundamentos-de-ruby/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos las fundamentos para aprender a programar en este lenguaje, empezaremos desde cero en este lenguaje dinamico y de codigo abierto, hasta que seas capaz de desarrollar tus propias aplicaciones.\nEn el curso aprenderemos el poder y la magia que tiene Ruby en el momento de codear."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBNYXJpb25ldHRlLmpz","plataforma_curso":"devcode","nombre_curso":"Curso de Marionette.js","url_curso":"https://devcode.la/cursos/marionettejs","imagen_curso":"/cursos/marionettejs/","nivel_curso":"Intermedio","description_curso":"Marionette.js es una librer&#xED;a para aplicaciones web, complementaria para Backbone.js, que pretende simplificar la construcci&#xF3;n de aplicaciones JavaScript de gran escala.\nCon este curso aprenderemos a estructurar una aplicaci&#xF3;n, mantenerla y reutilizarla f&#xE1;cilmente a trav&#xE9;s del tiempo, pues Marionette, est&#xE1; dise&#xF1;ado para ser una librer&#xED;a ligera y flexible con herramientas que se complementan con Backbone, que proporciona de una forma f&#xE1;cil y sencilla, la construcci&#xF3;n de una aplicaci&#xF3;n escalable."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBBbmd1bGFyLmpz","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Angular.js","url_curso":"https://devcode.la/cursos/fundamentos-angularjs","imagen_curso":"/cursos/fundamentos-angularjs/","nivel_curso":"B&#xE1;sico","description_curso":"Angularjs, est&#xE1; desarrollado en el popular lenguaje de programaci&#xF3;n javascript y su objetivo principal es crear aplicaciones web din&#xE1;micas y eficientes del lado frontend. LLegando a poder construir aplicaciones de una sola p&#xE1;gina o SPA."},{"id_curso":"ZGV2Y29kZTpUaXBvcyBkZSByZWZlcmVuY2lhIGVuIEphdmFTY3JpcHQ=","plataforma_curso":"devcode","nombre_curso":"Tipos de referencia en JavaScript","url_curso":"https://devcode.la/cursos/tipos-de-referencia-en-js","imagen_curso":"/cursos/tipos-de-referencia-en-js/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos los tipos de referencias m&#xE1;s importantes en JavaScript, manejar arrays, controlar la hora, conocer los tipos de funciones, manipular strings, aprender a manejar las promesas y m&#xE1;s."},{"id_curso":"ZGV2Y29kZTpBbmd1bGFyLmpzIEF2YW56YWRv","plataforma_curso":"devcode","nombre_curso":"Angular.js Avanzado","url_curso":"https://devcode.la/cursos/angularjs-avanzado","imagen_curso":"/cursos/angularjs-avanzado/","nivel_curso":"Avanzado","description_curso":"Conoce las pr&#xE1;cticas recomendadas para desarrollar aplicaciones client-side con angular.Tocando a fondo muchos componentes como controladores, m&#xF3;dulos, servicios, entre otros. Y aprende t&#xE9;cnicas que te ayudar&#xE1;n a construir aplicaciones potentes de una forma eficaz y robusta."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBQeXRob24=","plataforma_curso":"devcode","nombre_curso":"Curso de Python","url_curso":"https://devcode.la/cursos/python","imagen_curso":"/cursos/python/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos desde cero a programar con Python, tanto en su versi&#xF3;n 2.7, como en su versi&#xF3;n 3*. Desarrollaremos una serie de ejemplos y ejercicios que te permitir&#xE1;n comprender c&#xF3;mo trabaja Python en el desarrollo de aplicaciones web.\nPython tiene una sintaxis muy limpia, lo cual favorece el c&#xF3;digo legible, es elegante y flexible, simplificado, r&#xE1;pido y tiene una curva de aprendizaje muy corta. Adem&#xE1;s, es uno de los lenguajes backend que m&#xE1;s ha crecido en los &#xFA;ltimos a&#xF1;os y ha sido recomendado por Google. "},{"id_curso":"ZGV2Y29kZTpUZXN0aW5nIFJ1YnkgeSBSdWJ5IG9uIFJhaWxz","plataforma_curso":"devcode","nombre_curso":"Testing Ruby y Ruby on Rails","url_curso":"https://devcode.la/cursos/testing-ruby-y-ruby-on-rails","imagen_curso":"/cursos/testing-ruby-y-ruby-on-rails/","nivel_curso":"Avanzado","description_curso":"Testing ruby y ruby on rails, te permite realizar pruebas, para conocer la calidad de tu aplicaci&#xF3;n web,\nLas pruebas realizadas son b&#xE1;sicamente un conjunto de actividades dentro del desarrollo de la aplicaci&#xF3;n. Dependiendo del tipo de pruebas, estas actividades podr&#xE1;n ser implementadas en cualquier momento del proceso de desarrollo."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBCYWNrYm9uZS5qcw==","plataforma_curso":"devcode","nombre_curso":"Curso de Backbone.js","url_curso":"https://devcode.la/cursos/backbonejs","imagen_curso":"/cursos/backbonejs/","nivel_curso":"B&#xE1;sico","description_curso":"Aprende a desarrollar aplicaciones con Backbone.js, librer&#xED;a de JavaScript que facilita el mantenimiento y reutilizaci&#xF3;n de c&#xF3;digo.\nBackbone es ligero, r&#xE1;pido y f&#xE1;cil de aprender. Tiene una gran documentaci&#xF3;n y un c&#xF3;digo simple, por lo que pronto podr&#xE1;s usarlo para seguir profesionaliz&#xE1;ndote en el lado frontend. Empezaremos el curso desde cero y avanzaremos paso a paso, lo &#xFA;nico que necesitas es tener una base en JavaScript. Si a&#xFA;n no conoces este lenguaje, te recomendamos revisar nuestro curso de JavaScript."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBDU1Mz","plataforma_curso":"devcode","nombre_curso":"Curso de CSS3","url_curso":"https://devcode.la/cursos/css3","imagen_curso":"/cursos/css3/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos a desarrollar sitios web modernos con las &#xFA;ltimas caracter&#xED;sticas de CSS, el lenguaje de estilos para la creaci&#xF3;n de p&#xE1;ginas web. Con CSS3 tus sitios gozar&#xE1;n de mayor dinamismo y compatibilidad en distintos navegadores, factores esenciales en las tendencias de dise&#xF1;o web actual.\nNo es necesario que seas un experto en programaci&#xF3;n, pero s&#xED; es recomendable que antes de empezar con este curso, tengas una base previa de HTML. En caso de no conocer este lenguaje, te invitamos a revisar nuestro curso de HTML y CSS."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBSZXNwb25zaXZlIFdlYiBEZXNpZ24=","plataforma_curso":"devcode","nombre_curso":"Curso de Responsive Web Design","url_curso":"https://devcode.la/cursos/responsive-web-design","imagen_curso":"/cursos/responsive-web-design/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso prenderemos a desarrollar sitios web optimizados para m&#xF3;viles y capaces de adaptarse a cualquier dispositivo, siguiendo la filosof&#xED;a Responsive Web Design.\nEsta filosof&#xED;a se ha vuelto indispensable para el dise&#xF1;o y desarrollo de cualquier sitio web en la actualidad, ya que est&#xE1; pensada para brindar una mejor experiencia de usuario, permitiendo a las empresas generar mayor n&#xFA;mero de conversiones. "},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBEamFuZ28=","plataforma_curso":"devcode","nombre_curso":"Curso de Django","url_curso":"https://devcode.la/cursos/django","imagen_curso":"/cursos/django/","nivel_curso":"Avanzado","description_curso":"En este curso aprender&#xE1;s a crear aplicaciones web con Django, el framework m&#xE1;s popular de Python. Django te permite crear aplicaciones robustas con un c&#xF3;digo ordenado y sencillo, y su curva de aprendizaje es muy corta.\nAplicaciones web como Pinterest, Instagram o Disqus han sido desarrolladas en Django. T&#xFA; tambi&#xE9;n podr&#xE1;s desarrollar tu propia aplicaci&#xF3;n web, pues en este curso no solo aprenderemos desde cero hasta un nivel avanzado, sino que tambi&#xE9;n realizaremos un proyecto real que te permitir&#xE1; fijar tus conocimientos."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBqUXVlcnkgVUk=","plataforma_curso":"devcode","nombre_curso":"Curso de jQuery UI","url_curso":"https://devcode.la/cursos/jqueryui","imagen_curso":"/cursos/jqueryui/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos a crear sitios web din&#xE1;micos con JQuery UI, fabulosa librer&#xED;a que nos permite a&#xF1;adir animaciones, efectos, interacciones y m&#xE1;s a nuestras interfaces de usuario."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBOb2RlLmpz","plataforma_curso":"devcode","nombre_curso":"Curso de Node.js","url_curso":"https://devcode.la/cursos/nodejs","imagen_curso":"/cursos/nodejs/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso aprenderemos a crear aplicaciones en tiempo real en Node.js, desde cero y paso a paso, desarrollando un proyecto real que nos permitir&#xE1; aplicar los conocimientos obtenidos.\nNode.js es una plataforma que nos permite utilizar JavaScript desde el lado del servidor. Solo necesitas tener conocimientos previos de este lenguaje. Si no los tienes, te recomendamos seguir nuestro curso de JavaScript dentro de la plataforma."},{"id_curso":"ZGV2Y29kZTpDdXJzbyBkZSBKYXZhU2NyaXB0","plataforma_curso":"devcode","nombre_curso":"Curso de JavaScript","url_curso":"https://devcode.la/cursos/javascript","imagen_curso":"/cursos/javascript/","nivel_curso":"Intermedio","description_curso":"En este curso aprenderemos el lenguaje JavaScript desde cero, de forma sencilla y din&#xE1;mica, y paso a paso.\nJavaScript es uno de los lenguajes m&#xE1;s vers&#xE1;tiles, ya que no solo puedes desarrollar para frontend desde el lado del cliente, sino que tambi&#xE9;n podr&#xE1;s desarrollar para backend, desde el lado del servidor."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBLb3RsaW4=","plataforma_curso":"devcode","nombre_curso":"Fundamentos de Kotlin","url_curso":"https://devcode.la/cursos/kotlin","imagen_curso":"/cursos/kotlin/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso realizaremos nuestros primeros pasos en Kotlin, aprenderemos qu&#xE9; es, nuestro primer hola mundo, sus funciones, variables y plantillas de cadena de texto.\nTambi&#xE9;n tendremos un m&#xF3;dulo sobre Programaci&#xF3;n Orientada a Objetos en Kotlin, luego veremos condicionales y secuencias de repetici&#xF3;n y al final crearemos un peque&#xF1;o juego relacionado a Pok&#xE9;mon."},{"id_curso":"ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBQSFAgNw==","plataforma_curso":"devcode","nombre_curso":"Fundamentos de PHP 7","url_curso":"https://devcode.la/cursos/php-7","imagen_curso":"/cursos/php-7/","nivel_curso":"B&#xE1;sico","description_curso":"En este curso realizaremos nuestros primeros pasos en PHP, conoceremos las novedades de PHP 7, su sintaxis, conceptos b&#xE1;sicos, estructuras de control, arrays y funciones. Asimismo, crearemos un formulario para conocer los m&#xE9;todos GET y POST, adem&#xE1;s de aprender con ejemplos sobre sesiones y cookies en PHP."}]
+[
+  {
+    "id_curso": "ZGV2Y29kZTpQcnVlYmFzIFVuaXRhcmlhcyBlbiBKYXZhU2NyaXB0",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Pruebas Unitarias en JavaScript",
+    "url_curso": "https://devcode.la/cursos/pruebas-unitarias-javascript",
+    "imagen_curso": "/cursos/pruebas-unitarias-javascript/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "En este curso aprenderemos a usar TDD y Jest, conoceremos la anatom&#xED;a de una prueba unitaria, configuraremos Jest con Babel y ES6, crearemos nuestra primera prueba unitaria e implementaremos pruebas con TDD, probaremos c&#xF3;digo as&#xED;ncrono y m&#xE1;s."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBEamFuZ28gMS4xMA==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Django 1.10",
+    "url_curso": "https://devcode.la/cursos/django-fundamentos",
+    "imagen_curso": "/cursos/django-fundamentos/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso veremos los Fundamentos de Django 1.10 de la mano del desarrollo de un proyecto, haremos nuestras instalaciones y configuraciones iniciales, abordaremos temas como el panel de administraci&#xF3;n, multiple settings, creaci&#xF3;n de aplicaciones, URLs, vistas, templates, archivos est&#xE1;ticos, autenticaci&#xF3;n y registro de usuarios, entre otros hasta completar nuestro aplicaci&#xF3;n web."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBDU1MgR3JpZA==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de CSS Grid",
+    "url_curso": "https://devcode.la/cursos/grid",
+    "imagen_curso": "/cursos/grid/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos a utilizar el nuevo m&#xF3;dulo de CSS llamado Grid, conoceremos los conceptos y realizaremos ejemplos de las propiedades grid-container, grid-line, grid-cells, entre otras."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBQcnVlYmFzIFVuaXRhcmlhcyBlbiBQSFA=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Pruebas Unitarias en PHP",
+    "url_curso": "https://devcode.la/cursos/pruebas-unitarias-php",
+    "imagen_curso": "/cursos/pruebas-unitarias-php/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "En este curso aprenderemos a usar PHPUnit, instalaremos PHPUnit y crearemos nuestro primer test, conoceremos la funcionalidad de code coverage, aprenderemos a testear m&#xE9;todos privados, m&#xE9;todos protegiso y clases abstractas y de modo pr&#xE1;ctico emularemos resultados y aprenderemos a mockear."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBJbGx1c3RyYXRvcg==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Illustrator",
+    "url_curso": "https://devcode.la/cursos/illustrator",
+    "imagen_curso": "/cursos/illustrator/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprender&#xE1;s a utilizar las herramientas y par&#xE1;metros de Adobe IIlustrator desde cero a trav&#xE9;s de 19 cap&#xED;tulos pr&#xE1;cticos, desarrollando una modalidad de trabajo fluido y ordenado que te permitir&#xE1; iniciarte eficientemente en el &#xE1;rea de dise&#xF1;o."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBCb290c3RyYXAgNA==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Bootstrap 4",
+    "url_curso": "https://devcode.la/cursos/bootstrap-4",
+    "imagen_curso": "/cursos/bootstrap-4/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos a crear nuestro primer sitio web utilizando Bootstrap 4, conoceremos el sistema grid, clases responsive y utilidades responsive. Asimismo, utilizaremos componentes como navbar, slider, sidebar, cards, modal, jumbotron, entre otros."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBBbmltYWNpb25lcyBTVkcgY29uIENTUzM=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Animaciones SVG con CSS3",
+    "url_curso": "https://devcode.la/cursos/animaciones-svg",
+    "imagen_curso": "/cursos/animaciones-svg/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos a crear animaciones SVG, conoceremos la propiedad transition y las transiciones con fill y stroke, la propiedad transform y las transformaciones con rotate y scale, as&#xED; como animaciones con dasharray y dashoffset entre otros."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBHTlUvTGludXggYiYjeEUxO3NpY28=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de GNU/Linux b&#xE1;sico",
+    "url_curso": "https://devcode.la/cursos/linux",
+    "imagen_curso": "/cursos/linux/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos qu&#xE9; es GNU/Linux, requerimientos y proceso de instalaci&#xF3;n, gesti&#xF3;n de paquetes RPM, gesti&#xF3;n de paquetes DEB y el manejo de la l&#xED;nea de comandos."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBEaXNlJiN4RjE7byBkZSBJbnRlcmZhY2VzIChVSSk=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Dise&#xF1;o de Interfaces (UI)",
+    "url_curso": "https://devcode.la/cursos/ui",
+    "imagen_curso": "/cursos/ui/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos el dise&#xF1;o de interfaces a trav&#xE9;s de conceptos como UI, UX, Arquitectura de la informaci&#xF3;n, Usabilidad, Dise&#xF1;o Web Responsive, Dise&#xF1;o de aplicaciones m&#xF3;viles, Conceptualizaci&#xF3;n, Definici&#xF3;n, Dise&#xF1;o y Desarrollo materializado en la creaci&#xF3;n de un flujo de navegaci&#xF3;n, moodboard, wireframes, dise&#xF1;os y prototipado de un proyecto."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBXb29jb21tZXJjZQ==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Woocommerce",
+    "url_curso": "https://devcode.la/cursos/woocommerce",
+    "imagen_curso": "/cursos/woocommerce/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "WooCommerce nos ofrece una plataforma de administraci&#xF3;n de tiendas para productos tanto f&#xED;sicos como digitales y todo esto con la facilidad que WordPress nos acostumbra. En el curso aprender&#xE1;s las bases de WooCommerce, crear productos, administrar las ventas y como configurar tu tienda sacarle el m&#xE1;ximo provecho, adem&#xE1;s veremos c&#xF3;mo combinarlo con servicios externos para procesamiento de pago, suscripciones de clientes, entre otros."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBQaG90b3Nob3AgYiYjeEUxO3NpY28=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Photoshop b&#xE1;sico",
+    "url_curso": "https://devcode.la/cursos/photoshop",
+    "imagen_curso": "/cursos/photoshop/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos a dominar Photoshop desde cero, conoceremos el uso de sus herramientas b&#xE1;sicas tales como Marquee, Lasso, Varita M&#xE1;gica, Crop Tool, Pincel, L&#xE1;piz, Borrador, Pluma, Forma, Capas, M&#xE1;scaras entre otras y lo m&#xE1;s importante es que desarrollaremos una modalidad de trabajo ordenado."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBMYXJhdmVs",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Laravel",
+    "url_curso": "https://devcode.la/cursos/laravel",
+    "imagen_curso": "/cursos/laravel/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos a desarrollar aplicaciones en Laravel 5.4, la &#xFA;ltima versi&#xF3;n del framework de mayor crecimiento de PHP. Alistaremos nuestro entorno de trabajo, conoceremos la estructura de una aplicaci&#xF3;n Laravel, rutas, controladores, vistas, form requests, validaciones, migraciones, seeders y m&#xE1;s. Crearemos un proyecto similar a Reddit en el cual aplicaremos los conceptos aprendidos hasta la autenticaci&#xF3;n y protecci&#xF3;n de rutas."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBQT08gZW4gSmF2YVNjcmlwdA==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de POO en JavaScript",
+    "url_curso": "https://devcode.la/cursos/poo-javascript",
+    "imagen_curso": "/cursos/poo-javascript/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos c&#xF3;mo escribir c&#xF3;digo m&#xE1;s claro, flexible y eficiente utilizando conceptos claves de JavaScript como objetos, funciones, prototipos y herencia. Adem&#xE1;s revisaremos con mayor detalle la nueva sintaxis de ES6 para crear clases."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpEZXNhcnJvbGxvIGRlIHBsdWdpbnMgcGFyYSBXb3JkUHJlc3M=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Desarrollo de plugins para WordPress",
+    "url_curso": "https://devcode.la/cursos/plugins-wordpress",
+    "imagen_curso": "/cursos/plugins-wordpress/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos a realizar las configuraciones iniciales de nuestro plugin, agregaremos los estilos, scripts y guardaremos datos, crearemos metaboxes en los formularios y m&#xE1;s para luego aprender como subir nuestro plugin al repositorio oficial de WordPress y comercializarlo."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBBSkFYIHkgalF1ZXJ5IDM=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de AJAX y jQuery 3",
+    "url_curso": "https://devcode.la/cursos/ajax-jquery",
+    "imagen_curso": "/cursos/ajax-jquery/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos a usar AJAX, prepararemos nuestro entorno de trabajo y realizaremos un ejemplo, veremos los m&#xE9;todos GET y POST, el formato de respuesta y limitaciones de seguridad en AJAX. Exploraremos JSON, manipulaci&#xF3;n de AJAX y AJAX con jQuery hasta manipulaci&#xF3;n de errores."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBMdW1lbg==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Lumen",
+    "url_curso": "https://devcode.la/cursos/lumen",
+    "imagen_curso": "/cursos/lumen/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En el presente curso aprenderemos c&#xF3;mo construir microservicios y APIs empleando Lumen, el microframework de Laravel, conoceremos la estructura de Lumen, rutas HTTP, comandos Artisan, realizaremos la conexi&#xF3;n con base de datos y migraciones, veremos los controladores, entidades, Repositorios e inyecci&#xF3;n de dependencias y m&#xE1;s hasta ver variables globales y seguridad de la API."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBBbmRyb2lk",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Android",
+    "url_curso": "https://devcode.la/cursos/android",
+    "imagen_curso": "/cursos/android/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso realizaremos nuestros primeros pasos en Android, prepararemos nuestro entorno de desarrollo, conoceremos Android Studio, la estructura de una aplicaci&#xF3;n en Android y Gradle. Cubriremos conceptos como layouts, actividades, intents, componentes gr&#xE1;ficos, eventos, recursos y m&#xE1;s, todo acompa&#xF1;ado de un proyecto llamado &quot;Cashflow&quot; el cual firmaremos y subiremos a la Play Store."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBTZWxlbml1bQ==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Selenium",
+    "url_curso": "https://devcode.la/cursos/selenium",
+    "imagen_curso": "/cursos/selenium/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprendremos qu&#xE9; es el aseguramiento de la calidad del software, qu&#xE9; son las pruebas automatizadas y pruebas manuales, instalaremos Selenium IDE y usaremos tambi&#xE9;n Firebug para crear scripts de Selenium. Veremos tipos de localizadores, localizaremos elementos con Firepath, haremos validaciones, depuraremos pruebas y m&#xE1;s todo haciendo un ejercicio de pruebas con un sitio web de adopci&#xF3;n de mascotas"
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpOb2RlLmpzIEF2YW56YWRv",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Node.js Avanzado",
+    "url_curso": "https://devcode.la/cursos/nodejs-avanzado",
+    "imagen_curso": "/cursos/nodejs-avanzado/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "Aprende el manejo de promesas, streams, internacionalizaci&#xF3;n y dem&#xE1;s m&#xF3;dulos de npm, adem&#xE1;s conoce las mejores practicas para el desarrollo en Node"
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBSZWFjdA==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de React",
+    "url_curso": "https://devcode.la/cursos/react",
+    "imagen_curso": "/cursos/react/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso realizaremos nuestros primeros pasos en React, conoceremos qu&#xE9; es React, aprenderemos a trabajar con webpack, veremos componentes, m&#xFA;ltiples componentes, estados, props y m&#xE1;s, adem&#xE1;s de aprender los conceptos de la mano de la creaci&#xF3;n de un To Do List."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBHaXQgeSBHaXRIdWI=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Git y GitHub",
+    "url_curso": "https://devcode.la/cursos/git",
+    "imagen_curso": "/cursos/git/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos los conceptos fundamentales del control de versiones utilizando Git, haremos la instalaci&#xF3;n y configuraci&#xF3;n para luego aprender a ejecutar sus comandos m&#xE1;s usuales tales como inicializar un repositorio, a&#xF1;adir archivos, status y commit, usar el entorno staging, ignorar archivos, usar ramas entre otros. Tambi&#xE9;n compartiremos proyectos en la nube utilizando GitHub."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBQeXRob24gMw==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Python 3",
+    "url_curso": "https://devcode.la/cursos/python-3",
+    "imagen_curso": "/cursos/python-3/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso realizaremos nuestros primeros pasos en Python 3, conoceremos su sintaxis, variables, tipos de datos y casting, funciones, listas, diccionarios, tuplas y m&#xE1;s. Asimismo conoceremos las buenas pr&#xE1;cticas en Python 3."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBHcnVudA==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Grunt",
+    "url_curso": "https://devcode.la/cursos/grunt",
+    "imagen_curso": "/cursos/grunt/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso entenderemos qu&#xE9; es Grunt y para qu&#xE9; sirve. Aprenderemos a utilizar esta librer&#xED;a paso a paso, aprendiendo sus partes, y utilizaremos lo aprendido para automatizar las tareas de un proyecto."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDcmVhY2kmI3hGMztuIGRlIHRlbWFzIHBhcmEgV29yZFByZXNz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Creaci&#xF3;n de temas para WordPress",
+    "url_curso": "https://devcode.la/cursos/creacion-temas-para-wordpress",
+    "imagen_curso": "/cursos/creacion-temas-para-wordpress/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso de WordPress conoceremos su estructura de archivos y carpetas, el uso del Codex, los archivos necesarios para la creaci&#xF3;n de un tema, daremos estilos al tema, veremos lo relacionado a im&#xE1;genes, men&#xFA;, widgets, comentarios y m&#xE1;s hasta terminar nuestra plantilla hecha desde cero en WordPress."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBEamFuZ28gMS42",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Django 1.6",
+    "url_curso": "https://devcode.la/cursos/django-16",
+    "imagen_curso": "/cursos/django-16/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprender&#xE1;s a crear aplicaciones web con Django, el framework m&#xE1;s popular de Python. Django te permite crear aplicaciones robustas con un c&#xF3;digo ordenado y sencillo, y su curva de aprendizaje es muy corta.\nAplicaciones web como Pinterest, Instagram o Disqus han sido desarrolladas en Django. T&#xFA; tambi&#xE9;n podr&#xE1;s desarrollar tu propia aplicaci&#xF3;n web, pues en este curso no solo aprenderemos desde cero hasta un nivel avanzado, sino que tambi&#xE9;n realizaremos un proyecto real que te permitir&#xE1; fijar tus conocimientos."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBKYXZhU2NyaXB0",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de JavaScript",
+    "url_curso": "https://devcode.la/cursos/javascript-fundamentos",
+    "imagen_curso": "/cursos/javascript-fundamentos/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso realizaremos nuestros primeros pasos en JavaScript, conoceremos su sintaxis, manejaremos la consola JavaScript, veremos los tipos de datos, operadores y estructuras de control."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBQT08gZW4gUEhQ",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de POO en PHP",
+    "url_curso": "https://devcode.la/cursos/poo-php",
+    "imagen_curso": "/cursos/poo-php/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En el presente curso prepararemos nuestro entorno de desarrollo, conoceremos el paradigma Programaci&#xF3;n Orientada a Objetos, la sintaxis b&#xE1;sica y el est&#xE1;ndar de programaci&#xF3;n PSR-2. Tambi&#xE9;n crearemos nuestra primera clase e instanciaremos nuestro primer objeto, implementaremos la encapsulaci&#xF3;n y abstracci&#xF3;n. Adem&#xE1;s conoceremos los m&#xE9;todos m&#xE1;gicos, herencias, constructores, destructores y m&#xE1;s."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBXb3JkUHJlc3M=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de WordPress",
+    "url_curso": "https://devcode.la/cursos/wordpress-fundamentos",
+    "imagen_curso": "/cursos/wordpress-fundamentos/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "WordPress es un CMS (Sistema Gestor de Contenidos) sencillo y f&#xE1;cil de aprender con el que podr&#xE1;s crear tu primer blog o sitio web. Ideal si no tienes experiencia previa en programaci&#xF3;n.\nEn este curso conoceremos sus fundamentos, su panel de administraci&#xF3;n, taxonom&#xED;a, comentarios, apariencia, uso de plugins, gesti&#xF3;n de usuarios, herramientas y ajustes, todos estos temas aplicados en la creaci&#xF3;n de un blog profesional."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpBUElzIGVuIFJ1Ynkgb24gUmFpbHM=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "APIs en Ruby on Rails",
+    "url_curso": "https://devcode.la/cursos/apis-en-ruby-on-rails",
+    "imagen_curso": "/cursos/apis-en-ruby-on-rails/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "API REST en Ruby on Rails nos permite crear servicios y aplicaciones que puedan ser usadas por cualquier dispositivo o cliente que entienda HTTP, como respuesta a la consulta sobre el REST API se obtienen datos en diferentes formatos, como pueden ser texto plano, XML, JSON, etc."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBCYXNlIGRlIERhdG9zIGVuIE15U1FM",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Base de Datos en MySQL",
+    "url_curso": "https://devcode.la/cursos/base-de-datos",
+    "imagen_curso": "/cursos/base-de-datos/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso instalaremos y crearemos unos usuarios b&#xE1;sicos en MySQL y usaremos la herramienta MySQL Workbench. Veremos las sentencia DDL y DML, crearemos una base de datos utilizando buenas gu&#xED;as para crearlas y dise&#xF1;arlas. Tambi&#xE9;n conoceremos los tipos de datos b&#xE1;sicos y funciones para operar con datos."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDJiN4RjM7bW8gY3JlYXIgdW5hIHAmI3hFMTtnaW5hIHdlYg==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "C&#xF3;mo crear una p&#xE1;gina web",
+    "url_curso": "https://devcode.la/cursos/como-crear-una-pagina-web",
+    "imagen_curso": "/cursos/como-crear-una-pagina-web/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos a crear un sitio web desde cero y aplicaremos conceptos b&#xE1;sicos de HTML, CSS, Responsive Web Design y PHP para crear una p&#xE1;gina web ideal para un negocio, empresa o para tu propio portafolio."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBBbmd1bGFyIDI=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Angular 2",
+    "url_curso": "https://devcode.la/cursos/angular-2-fundamentos",
+    "imagen_curso": "/cursos/angular-2-fundamentos/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso veremos los Fundamentos de Angular 2, conoceremos la anatom&#xED;a de una aplicaci&#xF3;n en Angular, crearemos componentes, usaremos decoradores como metadata, componentes como directivas, construiremos servicios, configuraremos rutas, pasaremos par&#xE1;metros a una ruta hasta configurar totalmente nuestro primer proyecto en Angular 2."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBqUXVlcnk=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de jQuery",
+    "url_curso": "https://devcode.la/cursos/jquery",
+    "imagen_curso": "/cursos/jquery/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos a extender las funcionalidades de JavaScript con JQuery, librer&#xED;a que te facilitar&#xE1; el manejo de eventos, desarrollar animaciones y realizar interacciones con la t&#xE9;cnica AJAX dentro de la web, crando as&#xED; sitios m&#xE1;s din&#xE1;micos."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBKYXZh",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Java",
+    "url_curso": "https://devcode.la/cursos/fundamentos-java",
+    "imagen_curso": "/cursos/fundamentos-java/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso gratuito utilizando Java 8 daremos un vistazo a conceptos b&#xE1;sicos de programaci&#xF3;n tales como variables, ciclos y sentencias de control que son el bloque de construcci&#xF3;n de cualquier aplicaci&#xF3;n en Java, as&#xED; mismo crearemos un juego y haremos todo esto con buenas pr&#xE1;cticas de programaci&#xF3;n para que nuestra aplicaci&#xF3;n sea entendible, f&#xE1;cil de mantener y tenga una l&#xF3;gica bien estructurada."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBOb2RlLmpz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Node.js",
+    "url_curso": "https://devcode.la/cursos/fundamentos-nodejs",
+    "imagen_curso": "/cursos/fundamentos-nodejs/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos las fundamentos para poder desarrollar aplicaciones web en Node.js, el curso ir&#xE1; desde cero, desarrollando un proyecto real que nos permitir&#xE1; aplicar los conocimientos obtenidos.\nNode.js es una plataforma que nos permite utilizar JavaScript desde el lado del servidor. Solo necesitas tener conocimientos previos de este lenguaje. Si no los tienes, te recomendamos seguir nuestro curso de JavaScript dentro de la plataforma."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBCb290c3RyYXAgMw==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Bootstrap 3",
+    "url_curso": "https://devcode.la/cursos/bootstrap3",
+    "imagen_curso": "/cursos/bootstrap3/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprender&#xE1;s a dise&#xF1;ar aplicaciones web en Bootstrap 3 o Bootstrap Twiiter. Este popular framework frontend te permite crear un sitio web r&#xE1;pidamente y personalizar los elementos de manera sencilla\nLo &#xFA;nico que necesitas para empezar a trabajar con este framework es tener conocimientos previos de HTML, CSS y JavaScript. Si a&#xFA;n no conoces estos lenguajes, te invitamos a seguir nuestros cursos de HTML, CSS y JavaScript en la plataforma."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBIVE1MIHkgQ1NTIEdyYXRpcw==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de HTML y CSS Gratis",
+    "url_curso": "https://devcode.la/cursos/html-css",
+    "imagen_curso": "/cursos/html-css/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos gratis a maquetar sitios Web con HTML5 y a brindar estilos con CSS. No necesitas conocimientos previos, pues empezaremos desde cero con una serie de ejemplos pr&#xE1;cticos y al t&#xE9;rmino del curso, desarrollaremos un proyecto real en el cual aplicaremos todo lo aprendido"
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpBUElzIGRlIEhUTUw1",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "APIs de HTML5",
+    "url_curso": "https://devcode.la/cursos/apis-html5",
+    "imagen_curso": "/cursos/apis-html5/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprender&#xE1;s algunas de las novedades que nos proporciona HTML5, tales como la API de Canvas, la API de Media, la API de Geolocation con la cual obtendremos los datos de altitud y longitud de un usuario y mostraremos su ubicaci&#xF3;n en un mapa y la API de Web Storage que se divide en Local Storage y Session Storage."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBiJiN4RTE7c2ljbyBkZSBBbmRyb2lk",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso b&#xE1;sico de Android",
+    "url_curso": "https://devcode.la/cursos/curso-basico-de-android",
+    "imagen_curso": "/cursos/curso-basico-de-android/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso b&#xE1;sico gratuito construiremos nuestra primera aplicaci&#xF3;n para Android, aprendiendo sobre Layouts, TextView y EditText, ImageView, tipos de botones, introducci&#xF3;n a java, cron&#xF3;metro inverso y m&#xE9;todo comparar."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBUeXBlU2NyaXB0",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de TypeScript",
+    "url_curso": "https://devcode.la/cursos/typescript",
+    "imagen_curso": "/cursos/typescript/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprender&#xE1;s la sintaxis y caracter&#xED;sticas de este grandioso lenguaje recomendado para desarrollar aplicaciones en AngularJS 2."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBiJiN4RTE7c2ljbyBkZSBSZXNwb25zaXZlIFdlYiBEZXNpZ24=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso b&#xE1;sico de Responsive Web Design",
+    "url_curso": "https://devcode.la/cursos/curso-basico-de-responsive-web-design",
+    "imagen_curso": "/cursos/curso-basico-de-responsive-web-design/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso b&#xE1;sico gratuito daremos una introducci&#xF3;n a la filosof&#xED;a del dise&#xF1;o responsive, aprendiendo las caracter&#xED;sticas fundamentales. Una vez terminado este curso, te invitamos a nuestro curso profesional de Responsive Web Design, en el que podremos revisar cada tema con mayor profundidad y plasmarlo en un proyecto real."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBFQ01BU2NyaXB0IDY=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de ECMAScript 6",
+    "url_curso": "https://devcode.la/cursos/fundamentos-ecmascript-6",
+    "imagen_curso": "/cursos/fundamentos-ecmascript-6/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprender&#xE1;s el uso de la nueva sintaxis y las mejoras en el lenguaje introducidas por ES6. Asimismo, utilizaremos Babel como compilador de JavaScript."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBSdWJ5IG9uIFJhaWxz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Ruby on Rails",
+    "url_curso": "https://devcode.la/cursos/fundamentos-de-ror",
+    "imagen_curso": "/cursos/fundamentos-de-ror/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "Ruby on Rails es el framework m&#xE1;s popular y utilizado de Ruby, que se basa en dos principios, el primero DRY que quiere decir que nuestro c&#xF3;digo debe ser reusable y no estar duplicando el segundo es Convention Over Configuration que significa que Rails hace algunas suposiciones sobre lo que t&#xFA; quieres hacer y c&#xF3;mo vas a hacerlo."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBiJiN4RTE7c2ljbyBkZSBCYWNrYm9uZS5qcw==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso b&#xE1;sico de Backbone.js",
+    "url_curso": "https://devcode.la/cursos/curso-basico-de-backbonejs",
+    "imagen_curso": "/cursos/curso-basico-de-backbonejs/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso b&#xE1;sico gratuito aprenderemos los elementos fundamentales de Backbone.js como modelos, vistas y colecciones construyendo nuestra primera aplicaci&#xF3;n. Si deseas ver temas m&#xE1;s avanzados y aprender Backbone.js con mayor profundidad, te invitamos a nuestro curso profesional de Backbone.js"
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBpT1M=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de iOS",
+    "url_curso": "https://devcode.la/cursos/curso-ios",
+    "imagen_curso": "/cursos/curso-ios/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "Crea proyectos nuevos de iOS para iPhone, y comprende el patr&#xF3;n MVC en iOS. Conoce los conceptos del ciclo de vida de una pantalla y env&#xED;a datos entre pantallas, dominando los conceptos b&#xE1;sico de Autolayout. Adem&#xE1;s maneja datos por medio de tablas y crea celdas personalizadas"
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBSdWJ5",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Ruby",
+    "url_curso": "https://devcode.la/cursos/fundamentos-de-ruby",
+    "imagen_curso": "/cursos/fundamentos-de-ruby/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos las fundamentos para aprender a programar en este lenguaje, empezaremos desde cero en este lenguaje dinamico y de codigo abierto, hasta que seas capaz de desarrollar tus propias aplicaciones.\nEn el curso aprenderemos el poder y la magia que tiene Ruby en el momento de codear."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBNYXJpb25ldHRlLmpz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Marionette.js",
+    "url_curso": "https://devcode.la/cursos/marionettejs",
+    "imagen_curso": "/cursos/marionettejs/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "Marionette.js es una librer&#xED;a para aplicaciones web, complementaria para Backbone.js, que pretende simplificar la construcci&#xF3;n de aplicaciones JavaScript de gran escala.\nCon este curso aprenderemos a estructurar una aplicaci&#xF3;n, mantenerla y reutilizarla f&#xE1;cilmente a trav&#xE9;s del tiempo, pues Marionette, est&#xE1; dise&#xF1;ado para ser una librer&#xED;a ligera y flexible con herramientas que se complementan con Backbone, que proporciona de una forma f&#xE1;cil y sencilla, la construcci&#xF3;n de una aplicaci&#xF3;n escalable."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBBbmd1bGFyLmpz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Angular.js",
+    "url_curso": "https://devcode.la/cursos/fundamentos-angularjs",
+    "imagen_curso": "/cursos/fundamentos-angularjs/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "Angularjs, est&#xE1; desarrollado en el popular lenguaje de programaci&#xF3;n javascript y su objetivo principal es crear aplicaciones web din&#xE1;micas y eficientes del lado frontend. LLegando a poder construir aplicaciones de una sola p&#xE1;gina o SPA."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpUaXBvcyBkZSByZWZlcmVuY2lhIGVuIEphdmFTY3JpcHQ=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Tipos de referencia en JavaScript",
+    "url_curso": "https://devcode.la/cursos/tipos-de-referencia-en-js",
+    "imagen_curso": "/cursos/tipos-de-referencia-en-js/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos los tipos de referencias m&#xE1;s importantes en JavaScript, manejar arrays, controlar la hora, conocer los tipos de funciones, manipular strings, aprender a manejar las promesas y m&#xE1;s."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpBbmd1bGFyLmpzIEF2YW56YWRv",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Angular.js Avanzado",
+    "url_curso": "https://devcode.la/cursos/angularjs-avanzado",
+    "imagen_curso": "/cursos/angularjs-avanzado/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "Conoce las pr&#xE1;cticas recomendadas para desarrollar aplicaciones client-side con angular.Tocando a fondo muchos componentes como controladores, m&#xF3;dulos, servicios, entre otros. Y aprende t&#xE9;cnicas que te ayudar&#xE1;n a construir aplicaciones potentes de una forma eficaz y robusta."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBQeXRob24=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Python",
+    "url_curso": "https://devcode.la/cursos/python",
+    "imagen_curso": "/cursos/python/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos desde cero a programar con Python, tanto en su versi&#xF3;n 2.7, como en su versi&#xF3;n 3*. Desarrollaremos una serie de ejemplos y ejercicios que te permitir&#xE1;n comprender c&#xF3;mo trabaja Python en el desarrollo de aplicaciones web.\nPython tiene una sintaxis muy limpia, lo cual favorece el c&#xF3;digo legible, es elegante y flexible, simplificado, r&#xE1;pido y tiene una curva de aprendizaje muy corta. Adem&#xE1;s, es uno de los lenguajes backend que m&#xE1;s ha crecido en los &#xFA;ltimos a&#xF1;os y ha sido recomendado por Google. "
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpUZXN0aW5nIFJ1YnkgeSBSdWJ5IG9uIFJhaWxz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Testing Ruby y Ruby on Rails",
+    "url_curso": "https://devcode.la/cursos/testing-ruby-y-ruby-on-rails",
+    "imagen_curso": "/cursos/testing-ruby-y-ruby-on-rails/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "Testing ruby y ruby on rails, te permite realizar pruebas, para conocer la calidad de tu aplicaci&#xF3;n web,\nLas pruebas realizadas son b&#xE1;sicamente un conjunto de actividades dentro del desarrollo de la aplicaci&#xF3;n. Dependiendo del tipo de pruebas, estas actividades podr&#xE1;n ser implementadas en cualquier momento del proceso de desarrollo."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBCYWNrYm9uZS5qcw==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Backbone.js",
+    "url_curso": "https://devcode.la/cursos/backbonejs",
+    "imagen_curso": "/cursos/backbonejs/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "Aprende a desarrollar aplicaciones con Backbone.js, librer&#xED;a de JavaScript que facilita el mantenimiento y reutilizaci&#xF3;n de c&#xF3;digo.\nBackbone es ligero, r&#xE1;pido y f&#xE1;cil de aprender. Tiene una gran documentaci&#xF3;n y un c&#xF3;digo simple, por lo que pronto podr&#xE1;s usarlo para seguir profesionaliz&#xE1;ndote en el lado frontend. Empezaremos el curso desde cero y avanzaremos paso a paso, lo &#xFA;nico que necesitas es tener una base en JavaScript. Si a&#xFA;n no conoces este lenguaje, te recomendamos revisar nuestro curso de JavaScript."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBDU1Mz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de CSS3",
+    "url_curso": "https://devcode.la/cursos/css3",
+    "imagen_curso": "/cursos/css3/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos a desarrollar sitios web modernos con las &#xFA;ltimas caracter&#xED;sticas de CSS, el lenguaje de estilos para la creaci&#xF3;n de p&#xE1;ginas web. Con CSS3 tus sitios gozar&#xE1;n de mayor dinamismo y compatibilidad en distintos navegadores, factores esenciales en las tendencias de dise&#xF1;o web actual.\nNo es necesario que seas un experto en programaci&#xF3;n, pero s&#xED; es recomendable que antes de empezar con este curso, tengas una base previa de HTML. En caso de no conocer este lenguaje, te invitamos a revisar nuestro curso de HTML y CSS."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBSZXNwb25zaXZlIFdlYiBEZXNpZ24=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Responsive Web Design",
+    "url_curso": "https://devcode.la/cursos/responsive-web-design",
+    "imagen_curso": "/cursos/responsive-web-design/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso prenderemos a desarrollar sitios web optimizados para m&#xF3;viles y capaces de adaptarse a cualquier dispositivo, siguiendo la filosof&#xED;a Responsive Web Design.\nEsta filosof&#xED;a se ha vuelto indispensable para el dise&#xF1;o y desarrollo de cualquier sitio web en la actualidad, ya que est&#xE1; pensada para brindar una mejor experiencia de usuario, permitiendo a las empresas generar mayor n&#xFA;mero de conversiones. "
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBEamFuZ28=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Django",
+    "url_curso": "https://devcode.la/cursos/django",
+    "imagen_curso": "/cursos/django/",
+    "nivel_curso": "Avanzado",
+    "description_curso": "En este curso aprender&#xE1;s a crear aplicaciones web con Django, el framework m&#xE1;s popular de Python. Django te permite crear aplicaciones robustas con un c&#xF3;digo ordenado y sencillo, y su curva de aprendizaje es muy corta.\nAplicaciones web como Pinterest, Instagram o Disqus han sido desarrolladas en Django. T&#xFA; tambi&#xE9;n podr&#xE1;s desarrollar tu propia aplicaci&#xF3;n web, pues en este curso no solo aprenderemos desde cero hasta un nivel avanzado, sino que tambi&#xE9;n realizaremos un proyecto real que te permitir&#xE1; fijar tus conocimientos."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBqUXVlcnkgVUk=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de jQuery UI",
+    "url_curso": "https://devcode.la/cursos/jqueryui",
+    "imagen_curso": "/cursos/jqueryui/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos a crear sitios web din&#xE1;micos con JQuery UI, fabulosa librer&#xED;a que nos permite a&#xF1;adir animaciones, efectos, interacciones y m&#xE1;s a nuestras interfaces de usuario."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBOb2RlLmpz",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de Node.js",
+    "url_curso": "https://devcode.la/cursos/nodejs",
+    "imagen_curso": "/cursos/nodejs/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso aprenderemos a crear aplicaciones en tiempo real en Node.js, desde cero y paso a paso, desarrollando un proyecto real que nos permitir&#xE1; aplicar los conocimientos obtenidos.\nNode.js es una plataforma que nos permite utilizar JavaScript desde el lado del servidor. Solo necesitas tener conocimientos previos de este lenguaje. Si no los tienes, te recomendamos seguir nuestro curso de JavaScript dentro de la plataforma."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpDdXJzbyBkZSBKYXZhU2NyaXB0",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Curso de JavaScript",
+    "url_curso": "https://devcode.la/cursos/javascript",
+    "imagen_curso": "/cursos/javascript/",
+    "nivel_curso": "Intermedio",
+    "description_curso": "En este curso aprenderemos el lenguaje JavaScript desde cero, de forma sencilla y din&#xE1;mica, y paso a paso.\nJavaScript es uno de los lenguajes m&#xE1;s vers&#xE1;tiles, ya que no solo puedes desarrollar para frontend desde el lado del cliente, sino que tambi&#xE9;n podr&#xE1;s desarrollar para backend, desde el lado del servidor."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBLb3RsaW4=",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de Kotlin",
+    "url_curso": "https://devcode.la/cursos/kotlin",
+    "imagen_curso": "/cursos/kotlin/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso realizaremos nuestros primeros pasos en Kotlin, aprenderemos qu&#xE9; es, nuestro primer hola mundo, sus funciones, variables y plantillas de cadena de texto.\nTambi&#xE9;n tendremos un m&#xF3;dulo sobre Programaci&#xF3;n Orientada a Objetos en Kotlin, luego veremos condicionales y secuencias de repetici&#xF3;n y al final crearemos un peque&#xF1;o juego relacionado a Pok&#xE9;mon."
+  },
+  {
+    "id_curso": "ZGV2Y29kZTpGdW5kYW1lbnRvcyBkZSBQSFAgNw==",
+    "plataforma_curso": "devcode",
+    "nombre_curso": "Fundamentos de PHP 7",
+    "url_curso": "https://devcode.la/cursos/php-7",
+    "imagen_curso": "/cursos/php-7/",
+    "nivel_curso": "B&#xE1;sico",
+    "description_curso": "En este curso realizaremos nuestros primeros pasos en PHP, conoceremos las novedades de PHP 7, su sintaxis, conceptos b&#xE1;sicos, estructuras de control, arrays y funciones. Asimismo, crearemos un formulario para conocer los m&#xE9;todos GET y POST, adem&#xE1;s de aprender con ejemplos sobre sesiones y cookies en PHP."
+  }
+]
