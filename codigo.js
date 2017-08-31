@@ -141,6 +141,7 @@ lectura_pagina_principal
 			})
 			clasificacion_individual
 				.then(function(cursos_lista){
+					console.log('Se encontro '+ cursos_lista.length+ ' cursos')
 					cursos_lista.forEach(function(curso){
 						request({url: curso.url_curso, encoding: 'utf8' }, function(err, resp, body){
 							if(!err && resp.statusCode == 200){
