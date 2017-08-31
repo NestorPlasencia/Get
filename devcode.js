@@ -101,49 +101,6 @@ var lectura_pagina_principal = new Promise((resolve, reject) => {
 	});	
 })
 
-/*
-				var Career = cheerio.load( $(this).html() )
-				var cursos_classificacion = {}
-				cursos_classificacion = []
-				
-				Career('.CareerCourse').each(function(){
-					
-					var nombre_curso = $(this).find('.CareerCourse-name').html();
-					var link_curso = $(this).attr('href');
-					var url_cursos = 'https://platzi.com/cursos' + link_curso.slice(7, -1);
-					var url_clases = 'https://platzi.com/clases' + link_curso.slice(7, -1);
-					var id_curso = btoa(plataforma+":"+nombre_curso)
-					var curso = {
-						id_curso: id_curso,
-						plataforma_curso: plataforma,
-						nombre_curso: nombre_curso,
-						url_curso: url_cursos,
-						url_clases: url_clases,
-					}
-					cursos_classificacion.push(curso);
-					if(!cursos_lista.includes(curso)){
-						cursos_lista.push(curso)
-					}	
-				})
-				clasificacion.cursos_classificacion = cursos_classificacion;				
-				var existe = false
-				clasificaciones_actuales.forEach(function(clasificacion_actual,indice){
-					if( id_clasificacion == clasificacion_actual.id_clasificacion ){
-						existe = true
-						if(!diff(clasificacion_actual,clasificacion)){
-							console.log('La clasificacion '+ nombre_clasificacion + ' ya existe, no la actualizaremos')
-						}else{
-							console.log('La clasificacion '+ nombre_clasificacion + ' ya existe, y tenemos que actualizarla')
-							clasificaciones_actuales[indice] = clasificacion;
-						}
-					}
-				})
-				if(existe== false){
-					console.log('Vamos a agregar la '+ nombre_clasificacion )
-					clasificaciones_actuales.push(clasificacion);	
-				}	
-*/
-
 lectura_pagina_principal
 	.then( function (cursos_lista){
 		console.log('=======================================================')
@@ -171,9 +128,13 @@ lectura_pagina_principal
 				curso.temario_curso[0].temas_capitulo = []
 
 				$('.course__agenda li').each(function(){
-					var tema = $(this).find('a').html()
-					
-					curso.temario_curso[0].temas_capitulo.push(tema.slice(tema.indexOf(' ') + 1,tema.lenght))
+					var titulo_tema = $(this).find('a').html()
+					titulo_tema = titulo_tema.slice(titulo_tema.indexOf(' ') + 1,titulo_tema.lenght)
+					var tema = {
+						titulo_tema: titulo_tema,
+						tipo_tema: 'Video',
+					}
+					curso.temario_curso[0].temas_capitulo.push(tema)
 				})
 				// BLOQUE DE ACTUALIZACION / CREACION
   

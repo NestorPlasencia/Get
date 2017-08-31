@@ -163,20 +163,42 @@ lectura_pagina_principal
 																
 								curso.temario_curso = []
 								
-								
+								var temas = []
+
 								$('#playlist_course ul li ').each(function(){
 									
 									if($(this).find('header a div div div.text-left .box').text() != ""){
-										curso.temario_curso.push({
-											titulo_capitulo: $(this).find('header a div div div.text-left .box').text()
-										})	
+										var titulo_capitulo = $(this).find('header a div div div.text-left .box').text()
+										titulo_capitulo = titulo_capitulo.slice(titulo_capitulo.indexOf('-') + 2,titulo_capitulo.lenght)
+										var capitulo = {
+											titulo_capitulo: titulo_capitulo
+										}
+										curso.temario_curso.push(capitulo)	
 									}
+
+
 									if($(this).find('a div div.col-xs .box').text() != ""){
-										curso.temario_curso.push({
-											titulo_capitulo: $(this).find('a div div.col-xs .box').text()
-										})	
+										var titulo_tema = $(this).find('a div div.col-xs .box').text()
+										titulo_tema = titulo_tema.slice(titulo_tema.lastIndexOf('-') + 2,titulo_tema.lenght)
+										var tiempo_tema = $(this).find('a div div.text-left .align-icon').text()
+										var link_tema = 'https://codigofacilito.com' + $(this).find('a').attr('href')
+										var tema = {
+											titulo_tema: titulo_tema,
+											tipo_tema: 'Video',
+											tiempo_tema: tiempo_tema,
+											link_tema: link_tema,
+										}
+										temas.push(tema)	
 									}
-								})	
+								})
+
+								if(temas.length){
+									var capitulo = {
+										titulo_capitulo: 'Temas del cuso',
+										temas_capitulo: temas
+									}
+									curso.temario_curso.push(capitulo)
+								}	
 							
 								curso.numero_videos_curso = numero_videos_curso
 								curso.tiempo_curso = tiempo_curso
