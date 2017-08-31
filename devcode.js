@@ -171,6 +171,8 @@ lectura_pagina_principal
 
 
 var imagenes = {
+	apis_django: 'https://s3-us-west-2.amazonaws.com/devcode/media/courses/icon_django_rest_85x85.png',
+	sass: 'https://s3-us-west-2.amazonaws.com/devcode/media/courses/Sass_85%20px.png',
 	pruebas_unitarias_php : "https://s3-us-west-2.amazonaws.com/devcode/media/courses/PHP_unit_85x85.png",
 	grid: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/CSS_Grid-02.png",
 	pruebas_unitarias_javascript: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/Pruebas Unitarias Js_85 px.png",
@@ -215,7 +217,7 @@ var imagenes = {
 	nodejs_avanzado: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/Node_Js_Avanzado_2.png",
 	testing_ruby_y_ruby_on_rails: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/icon_ruby_on_rails-01.png",
 	django_16: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/Django_1.6-01.png",
-	apis_en_rubyon_rails: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/icon_apis_rubyonrails.png",
+	apis_en_ruby_on_rails: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/icon_apis_rubyonrails.png",
 	fundamentos_nodejs: "https://s3.amazonaws.com/devcodela/cursos/Icono_Node_Js-01.png",
 	jquery: "https://s3.amazonaws.com/devcodela/cursos/icon-jquery.png" ,
 	html_css: "https://s3-us-west-2.amazonaws.com/devcode/media/courses/icon_html5.png",
