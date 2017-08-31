@@ -57,7 +57,7 @@ var lectura_pagina_principal = new Promise((resolve, reject) => {
 				var nombre_curso = $(this).find('.course__item_body h3 a').html();
 				var link_curso = $(this).find('.course__item_body h3 a').attr('href');
 				var url_cursos = 'https://devcode.la/cursos' + link_curso.slice(7, -1);   
-				var imagen_curso = imagenes[link_curso.slice(8, -1).split('-').join('_')];
+				var imagen_curso = imagenes[link_curso.slice(8, -1).split('-').join('_')].split(' ').join('%20');
 				var nivel_curso = $(this).find('.course__nivel').html();
 				var costo = $(this).find('.course__type').html();
 				var costo_curso = 'Menbresia'
@@ -116,11 +116,8 @@ lectura_pagina_principal
 
 				var $ = cheerio.load(body);
 				// Capturamos informacion de cada curso
-				//var imagen_curso = $('.BannerTop-badge-v2 img').attr('src');
 				var description_curso = $('.course__rigth__about__content').html();
-				var imagen =  $('.course__rigth__about__figure img').attr('src');
 				curso.description_curso = description_curso
-				curso.imagen = imagen
 				curso.temario_curso = []
 				curso.temario_curso.push({
 					titulo_capitulo: "Temas del curso",
