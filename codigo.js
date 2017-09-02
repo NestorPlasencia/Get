@@ -13,6 +13,7 @@ if (!fs.readFileSync('json/clasificaciones-codigo.json','utf8')) {
 }else {
 	clasificaciones_actuales =JSON.parse(fs.readFileSync('json/clasificaciones-codigo.json', 'utf8'));
 }
+
 console.log('=======================================================')
 console.log(' Obtengamos la lista de los cursos y su clasificación')
 console.log('=======================================================')
@@ -63,7 +64,7 @@ var lectura_pagina_principal = new Promise((resolve, reject) => {
 			reject( new Error('No se leyo pagina principal'))
 		}
 	})
-})			
+})	
 
 lectura_pagina_principal
 	.then( function (clasificaciones_lista){
@@ -78,7 +79,7 @@ lectura_pagina_principal
 							var nombre_curso = $(this).find('.white h2 a').html();
 							var link_curso = $(this).find('.white h2 a').attr('href');
 							//console.log(link_curso)
-							var url_cursos = 'https://codigofacilito.com/cursos' + link_curso.slice(7,link_curso.lenght );   
+							var url_cursos = 'https://codigofacilito.com/cursos' + link_curso.slice(7,link_curso.lenght);   
 							var imagen_curso = 'https://codigofacilito.com' + $(this).find('.avatar').attr('src');
 							var nivel_curso =  $(this).find('.row.bottom-xs div div span').html();
 							var costo = $(this).find('.row .box .middle-block').html();
@@ -143,6 +144,8 @@ lectura_pagina_principal
 				.then(function(cursos_lista){
 					console.log('Se encontro '+ cursos_lista.length+ ' cursos')
 					cursos_lista.forEach(function(curso){
+						var path ='json/cursos-codigo.json'
+						//var path ='json/codigo/cursos-codigo-'+ curso.url_curso.slice(34) +'.json'
 						request({url: curso.url_curso, encoding: 'utf8' }, function(err, resp, body){
 							if(!err && resp.statusCode == 200){
 								
@@ -161,22 +164,81 @@ lectura_pagina_principal
 								$('#about_course').each(function(i,elm){
 									description_curso = description_curso + $(this).text()
 								})
-																
+													 
 								curso.temario_curso = []
 								
 								var temas = []
 
 								$('#playlist_course ul li ').each(function(){
-									
+			
 									if($(this).find('header a div div div.text-left .box').text() != ""){
 										var titulo_capitulo = $(this).find('header a div div div.text-left .box').text()
 										titulo_capitulo = titulo_capitulo.slice(titulo_capitulo.indexOf('-') + 2,titulo_capitulo.lenght)
-										var capitulo = {
-											titulo_capitulo: titulo_capitulo
-										}
-										curso.temario_curso.push(capitulo)	
-									}
+										titulo_capitulo = titulo_capitulo.split("\n").join('')
+										
+										var req_url = 'https://codigofacilito.com' + $(this).find('header a').attr('href')
+										
+										request({url: req_url,encoding: 'utf8',	headers: {'X-Requested-With': 'XMLHttpRequest',	'User-Agent': 'UserAgent' } }, function(err, resp, body){
+											
+											if(!err && resp.statusCode == 200){
+												capitulos = []
 
+												body = body.split('\\n').join('')
+												body = body.split('\\').join('')
+												body = body.split('>n').join('>')
+												body = body.split('&nbsp;n').join('')												
+												var inicio = body.lastIndexOf(').html(') + 7
+												var final = body.lastIndexOf(');}}).call(this);')
+												var ul = body.substring(inicio,final)
+												var lista = cheerio.load(ul);
+												
+												temas_indi = []
+												
+												lista('li.top-space').each(function(i,elm){
+													var titulo_tema = $(this).find('a div div.col-xs .box').text()
+													titulo_tema = titulo_tema.slice(titulo_tema.lastIndexOf('-') + 2,titulo_tema.lenght)
+													var tiempo_tema = $(this).find('a div div.text-left .box span').text()
+													var link_tema = 'https://codigofacilito.com' + $(this).find('a').attr('href')
+													var tema = {
+														titulo_tema: titulo_tema,
+														tipo_tema: 'Video',
+														tiempo_tema: tiempo_tema,
+														link_tema: link_tema,
+													}
+													temas_indi.push(tema)
+												})
+												var capitulo = {
+													titulo_capitulo: titulo_capitulo,
+													temas_capitulo: temas_indi,
+												}
+												console.log('Existen '+ temas_indi.length+ ' temas en el capitulo ' + capitulo.titulo_capitulo + ' en el curso ' + curso.nombre_curso )
+												
+												//console.log('Existen '+ capitulos.length + ' capitulos en el curso ' + curso.nombre_curso )
+												
+												if (!fs.readFileSync(path, 'utf8')) {
+													cursos_actuales = {},cursos_actuales = []
+													fs.writeFileSync(path, JSON.stringify(cursos_actuales));
+												}else{
+													cursos_actuales =JSON.parse(fs.readFileSync(path, 'utf8'));
+												}
+
+												cursos_actuales.forEach(function(curso_actual,indice){
+													if(curso_actual.id_curso == curso.id_curso) {
+														if(!curso_actual.temario_curso){
+															curso_actual.temario_curso = []
+															curso_actual.temario_curso.push(capitulo)
+														}else{
+															curso_actual.temario_curso.push(capitulo)
+														}
+													}
+												})																															
+							
+												fs.writeFileSync(path, JSON.stringify(cursos_actuales))
+												
+											}
+										
+										})
+									}
 
 									if($(this).find('a div div.col-xs .box').text() != ""){
 										var titulo_tema = $(this).find('a div div.col-xs .box').text()
@@ -190,7 +252,7 @@ lectura_pagina_principal
 											link_tema: link_tema,
 										}
 										temas.push(tema)	
-									}
+									}	
 								})
 
 								if(temas.length){
@@ -200,7 +262,10 @@ lectura_pagina_principal
 									}
 									curso.temario_curso.push(capitulo)
 								}	
-							
+								
+								description_curso = description_curso.split("\n").join('')
+								if(tiempo_curso) { tiempo_curso.split("\n").join('') }
+
 								curso.numero_videos_curso = numero_videos_curso
 								curso.tiempo_curso = tiempo_curso
 								curso.description_curso = description_curso
@@ -216,6 +281,7 @@ lectura_pagina_principal
 									elemento.each(function(i,elm2){
 										if(i == 0) {
 											nombre_instructor = $(this).find('div.col-xs div.box').text()
+											nombre_instructor = nombre_instructor.split("\n").join('')
 										}	
 									})
 									var  imagen_instructor = $(this).find('.circle').attr('style').slice(15, -1)
@@ -234,8 +300,8 @@ lectura_pagina_principal
 									
 									// Obtener los profesores ya registrados
 									if (!fs.readFileSync('json/profesores-codigo.json', 'utf8')) {
-										instructores_actuales = {}
-										instructores_actuales = []
+										instructores_actuales = {},instructores_actuales = []
+										
 									}else {
 										instructores_actuales =JSON.parse(fs.readFileSync('json/profesores-codigo.json', 'utf8'));
 									}
@@ -266,6 +332,7 @@ lectura_pagina_principal
 										//console.log('Vamos a agregar a '+ instructor.nombre_instructor  + ' con su curso '+ curso.nombre_curso)
 										instructores_actuales.push(instructor);	
 									}
+
 									fs.writeFileSync("json/profesores-codigo.json", JSON.stringify(instructores_actuales))
 					
 								})
@@ -274,11 +341,12 @@ lectura_pagina_principal
 								curso.id_instructores_curso = id_instructores_curso
 																
 								// BLOQUE DE ACTUALIZACION / CREACION
-				  
-								if (!fs.readFileSync('json/cursos-codigo.json', 'utf8')) {
+				  				
+				  				if (!fs.readFileSync(path, 'utf8')) {
 									cursos_actuales = {},cursos_actuales = []
+									fs.writeFileSync(path, JSON.stringify(cursos_actuales))
 								}else {
-									cursos_actuales =JSON.parse(fs.readFileSync('json/cursos-codigo.json', 'utf8'));
+									cursos_actuales =JSON.parse(fs.readFileSync(path, 'utf8'));
 								}
 								var existe = false
 								cursos_actuales.forEach(function(curso_actual,indice){
@@ -297,7 +365,7 @@ lectura_pagina_principal
 									console.log('Vamos a agregar '+ curso.nombre_curso )
 									cursos_actuales.push(curso);	
 								}
-								fs.writeFileSync("json/cursos-codigo.json", JSON.stringify(cursos_actuales))	
+								fs.writeFileSync(path, JSON.stringify(cursos_actuales))	
 								
 							}else{
 								console.log(err)
@@ -305,8 +373,8 @@ lectura_pagina_principal
 						})	
 					})
 
-				})			
+				})
+		
 		})
-
 	})
 	
