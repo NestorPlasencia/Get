@@ -67,7 +67,7 @@ cursos_lista.forEach(function(curso){
 						
 						if(!err && resp.statusCode == 200){
 							capitulos = []
-							
+
 							body = body.split('\\n').join('')
 							body = body.split('\\').join('')
 							body = body.split('>n').join('>')
@@ -97,15 +97,45 @@ cursos_lista.forEach(function(curso){
 								temas_capitulo: temas_indi,
 							}
 							//console.log('Existen '+temas_indi.length+ ' temas en el capitulo ' + capitulo.titulo_capitulo + ' en el curso ' + curso.nombre_curso )
-							capitulos.push(capitulo)
+							
 							console.log('Existen '+ capitulos.length + ' capitulos en el curso ' + curso.nombre_curso )
 							curso.temario_curso = capitulos
 							resolve(curso)
 
+							if (!fs.readFileSync(path, 'utf8')) {
+								cursos_actuales = {},cursos_actuales = []
+								fs.writeFileSync(path, JSON.stringify(cursos_actuales))
+							}else {
+								cursos_actuales =JSON.parse(fs.readFileSync(path, 'utf8'));
+							}
+
+							cursos_actuales.forEach(function(curso_actual,indice){
+								if(curso_actual.id_curso == curso.id_curso) {
+									if(diff(curso_actual,curso)){
+										console.log('El curso'+ curso.nombre_curso + ' ya existe pero tenemos que actualizarlo')
+										cursos_actuales[indice] = curso;
+									}
+								}
+							}
+							fs.writeFileSync(path, JSON.stringify(cursos_actuales))
+
 						}
 					
 					})
-				}				
+				}
+				if($(this).find('a div div.col-xs .box').text() != ""){
+										var titulo_tema = $(this).find('a div div.col-xs .box').text()
+										titulo_tema = titulo_tema.slice(titulo_tema.lastIndexOf('-') + 2,titulo_tema.lenght)
+										var tiempo_tema = $(this).find('a div div.text-left .align-icon').text()
+										var link_tema = 'https://codigofacilito.com' + $(this).find('a').attr('href')
+										var tema = {
+											titulo_tema: titulo_tema,
+											tipo_tema: 'Video',
+											tiempo_tema: tiempo_tema,
+											link_tema: link_tema,
+										}
+										temas.push(tema)	
+									}				
 			})
 			})
 
@@ -116,27 +146,7 @@ cursos_lista.forEach(function(curso){
 					
 					curso.temario_curso.forEach()
 					
-					if (!fs.readFileSync(path, 'utf8')) {
-						cursos_actuales = {},cursos_actuales = []
-						fs.writeFileSync(path, JSON.stringify(cursos_actuales))
-					}else {
-						cursos_actuales =JSON.parse(fs.readFileSync(path, 'utf8'));
-					}
-					var existe = false
-					cursos_actuales.forEach(function(curso_actual,indice){
-						if(curso_actual.id_curso == curso.id_curso) {
-							existe = true
-							if(diff(curso_actual,curso)){
-								console.log('El curso'+ curso.nombre_curso + ' ya existe pero tenemos que actualizarlo')
-								cursos_actuales[indice] = curso;
-							}
-						}
-					})
-					if(existe== false){
-						console.log('Vamos a agregar '+ curso.nombre_curso )
-						cursos_actuales.push(curso);	
-					}
-					fs.writeFileSync(path, JSON.stringify(cursos_actuales))	
+						
 				})			
 			//Termino de la promesa	 
 
