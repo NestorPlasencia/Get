@@ -15,7 +15,7 @@ var listado_cursos = new Promise((resolve, reject) => {
 		if(!err && resp.statusCode == 200){
 			var $ = cheerio.load(body);
 			fs.writeFileSync('acamica.html',body)
-			var lista_curos = []
+			var lista_cursos = []
 			$('.main-view-cursos .views-row').each(function(){
 				var nombre_curso = $(this).find('.curso-grid-item__title a').html();
 				var url_curso = dominio + $(this).find('.curso-grid-item__title a').attr('href');
@@ -32,22 +32,22 @@ var listado_cursos = new Promise((resolve, reject) => {
 					costo_curso: costo_curso,
 					costo_dolares_curso: costo_dolares_curso,
 				}
-				lista_curos.push(curso)
+				lista_cursos.push(curso)
 				var cursos = leer_archivo(path_cursos)
 				evaluar_curso(path_cursos,cursos,curso)
 				
 			})
-			resolve(lista_curos)	
+			resolve(lista_cursos)	
 		}else{
 			reject(err)
 		}
 	})
 })
 
-listado_cursos.then(function(lista_curos){
-	console.log('Se encontro '+lista_curos.length+' cursos')
+listado_cursos.then(function(lista_cursos){
+	console.log('Se encontro '+lista_cursos.length+' cursos')
 	var listado_clasificaciones = new Promise((resolve, reject) => {
-		lista_curos.forEach(function(curso){
+		lista_cursos.forEach(function(curso){
 			request({url: curso.url_curso, encoding: 'utf8' }, function(err, resp, body){
 				if(!err && resp.statusCode == 200){
 					var $ = cheerio.load(body);
