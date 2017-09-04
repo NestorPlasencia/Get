@@ -76,7 +76,7 @@ var listado_cursos = new Promise((resolve, reject) => {
 								var plataforma_instructor = plataforma;
 								
 								nombre_instructores_curso.push(nombre_instructor)
-								id_instructores_curso.push(path_instructores)
+								id_instructores_curso.push(id_instructor)
 
 								var instructores = leer_archivo(path_instructores)
 								if(!instructores.find(elemento_grabado => elemento_grabado.id_instructor == id_instructor)){

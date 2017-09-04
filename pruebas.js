@@ -6,11 +6,11 @@ function promiseSqrt(value){
     return new Promise(function (fulfill, reject){
         console.log('START execution with value =', value);
         num = num + value;
-        fulfill({ value: value, result: num });
-        /*setTimeout(function() {
-            //fulfill({ value: value, result: value * value });
+        
+        setTimeout(function() {
+            fulfill({ value: value, result: num });   //fulfill({ value: value, result: value * value });
             
-        }, 0 | Math.random() * 100);*/
+        }, value * 500);
     });
 }
  
