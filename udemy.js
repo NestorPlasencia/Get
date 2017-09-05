@@ -250,10 +250,9 @@ Promise.all(categorias).then(function(results){
 		        			temario_curso.push(capitulo)
 		        		})
 		        		
-		        		var description_curso = "";
-						$('.description p').each(function(i,elm){
-							description_curso = description_curso + $(this).text()
-						})
+		        		var description_curso = $('.description p').first().text();
+						//	description_curso = description_curso + $(this).text()
+						//})
 						description_curso = description_curso.trim();
 
 						var numero_videos_curso  = $('.num-lectures').text().trim();
