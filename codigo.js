@@ -178,7 +178,13 @@ lectura_pagina_principal
 										
 										var req_url = 'https://codigofacilito.com' + $(this).find('header a').attr('href')
 										
-										request({url: req_url,encoding: 'utf8',	headers: {'X-Requested-With': 'XMLHttpRequest',	'User-Agent': 'UserAgent' } }, function(err, resp, body){
+										request( {	url: req_url,
+													encoding: 'utf8',	
+													headers: {
+														'X-Requested-With': 'XMLHttpRequest',	
+														'User-Agent': 'UserAgent' 
+													} 
+												}, function(err, resp, body){
 											
 											if(!err && resp.statusCode == 200){
 												capitulos = []

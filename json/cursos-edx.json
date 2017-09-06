@@ -1,0 +1,402 @@
+[
+  {
+    "id_curso": "ZWR4OlTpY25pY2FzIEN1YW50aXRhdGl2YXMgeSBDdWFsaXRhdGl2YXMgcGFyYSBsYSBJbnZlc3RpZ2FjafNu",
+    "key_edx": "course-v1:UPValenciaX+TCCI201.x+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Técnicas Cuantitativas y Cualitativas para la Investigación",
+    "url_curso": "https://www.edx.org/course/tecnicas-cuantitativas-y-cualitativas-upvalenciax-tcci201-x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/investigacion-operativa378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OlByb27zc3RpY29zIGRlIHZlbnRhczogdW5hIGhlcnJhbWllbnRhIGNvbWVyY2lhbA==",
+    "key_edx": "course-v1:JaverianaX+PUJ.I.1601x.1+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Pronósticos de ventas: una herramienta comercial",
+    "url_curso": "https://www.edx.org/course/pronosticos-de-ventas-una-herramienta-javerianax-puj-i-1601x-1-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/puj.i.1601x.1-course_card_image11232015-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkV2YWx1YWNp824gZGUgSW1wYWN0byBkZSBQcm9ncmFtYXMgU29jaWFsZXM=",
+    "key_edx": "course-v1:MITx+JPAL101SPAx+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Evaluación de Impacto de Programas Sociales",
+    "url_curso": "https://www.edx.org/course/evaluacion-de-impacto-de-programas-mitx-jpal101spax-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/jpal101xspa_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkFHUklNT05JVE9SOiBwb2ztdGljYSBhZ3JvcGVjdWFyaWEsIHNlZ3VyaWRhZCBhbGltZW50YXJpYSB5IGNhbWJpbyBjbGlt4XRpY28=",
+    "key_edx": "course-v1:IDBx+IDB13x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "AGRIMONITOR: política agropecuaria, seguridad alimentaria y cambio climático",
+    "url_curso": "https://www.edx.org/course/agrimonitor-politica-agropecuaria-idbx-idb13x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/idb13x_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlNpc3RlbWFzIGRlIGluZm9ybWFjafNuIHkgb3JkZW5hZG9yZXMsIFBhcnRlIDQ6IFByb2dyYW1hY2nzbg==",
+    "key_edx": "course-v1:UPValenciaX+SIC101.4x+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Sistemas de información y ordenadores, Parte 4: Programación",
+    "url_curso": "https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-4x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/sic101.4x_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkRpc2XxYSBwcmVzZW50YWNpb25lcyBlZmljYWNlcyBjb24gUG93ZXJwb2ludA==",
+    "key_edx": "course-v1:UPValenciaX+PPT101x+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Diseña presentaciones eficaces con Powerpoint",
+    "url_curso": "https://www.edx.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/ppt101x_thumbnail-378225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlRlY25vbG9n7WFzIHBhcmEgbGEgRWR1Y2FjafNu",
+    "key_edx": "course-v1:UPValenciaX+TE201x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Tecnologías para la Educación",
+    "url_curso": "https://www.edx.org/course/tecnologias-para-la-educacion-upvalenciax-te201x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/tecnologias-para-la-educacion_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkFwbGljYWNpb25lcyBkZSBsYSBUZW9y7WEgZGUgR3JhZm9zIGEgbGEgdmlkYSByZWFsIElJ",
+    "key_edx": "course-v1:UPValenciaX+TGV201x.2+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Aplicaciones de la Teoría de Grafos a la vida real II",
+    "url_curso": "https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/tgv201x.2-course_card_image-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkV4Y2Vs",
+    "key_edx": "course-v1:UPValenciaX+xls101x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Excel",
+    "url_curso": "https://www.edx.org/course/excel-upvalenciax-xls101x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/excel_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkludHJvZHVjY2nzbiBhbCBkZXNhcnJvbGxvIGRlIHZpZGVvanVlZ29zIGNvbiBVbml0eQ==",
+    "key_edx": "course-v1:UPValenciaX+UNY201.x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Introducción al desarrollo de videojuegos con Unity",
+    "url_curso": "https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/uny201x_banner_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkFuZHJvaWQ6IEludHJvZHVjY2nzbiBhIGxhIFByb2dyYW1hY2nzbg==",
+    "key_edx": "course-v1:UPValenciaX+AIP201x+1T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Android: Introducción a la Programación",
+    "url_curso": "https://www.edx.org/course/android-introduccion-la-programacion-upvalenciax-aip201x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/android-introduccion-a-la-programacion_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkJ1c2NhciBlbiBJbnRlcm5ldA==",
+    "key_edx": "course-v1:UPValenciaX+BI101x+1T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Buscar en Internet",
+    "url_curso": "https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/buscar-en-internet_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlNpc3RlbWFzIGRlIEluZm9ybWFjafNuIHkgb3JkZW5hZG9yZXMsIFBhcnRlIDE6IFNpc3RlbWFzIGRlIGluZm9ybWFjafNuIHBhcmEgbGEgZW1wcmVzYQ==",
+    "key_edx": "course-v1:UPValenciaX+SIC101.1x+3T2016",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Sistemas de Información y ordenadores, Parte 1: Sistemas de información para la empresa",
+    "url_curso": "https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-1x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/isc101.1x_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkV4Y2VsIDI6IEdlc3Rp824gZGUgZGF0b3M=",
+    "key_edx": "course-v1:UPValenciaX+XLS201x+3T2016",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Excel 2: Gestión de datos",
+    "url_curso": "https://www.edx.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/xls201x_thumbnail.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkPhbGN1bG8gRGlmZXJlbmNpYWw=",
+    "key_edx": "course-v1:GalileoX+CMath001Rx+3T2016",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Cálculo Diferencial",
+    "url_curso": "https://www.edx.org/course/calculo-diferencial-galileox-cmath001rx",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/calculo_v2_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4Okp1Z2FuZG8gY29uIEFuZHJvaWQgLSBBcHJlbmRlIGEgUHJvZ3JhbWFyIHR1IFByaW1lcmEgQXBw",
+    "key_edx": "course-v1:UAMx+Android301x+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Jugando con Android - Aprende a Programar tu Primera App",
+    "url_curso": "https://www.edx.org/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/jugando_con_android_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OlNpc3RlbWFzIGRlIEluZm9ybWFjafNuIHkgb3JkZW5hZG9yZXMsIFBhcnRlIDM6IERlc2Fycm9sbG8gZGUgc29mdHdhcmU=",
+    "key_edx": "course-v1:UPValenciaX+SIC101.3x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Sistemas de Información y ordenadores, Parte 3: Desarrollo de software",
+    "url_curso": "https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-3x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/isc101.3x_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlNpc3RlbWFzIGRlIEluZm9ybWFjafNuIHkgb3JkZW5hZG9yZXMsIFBhcnRlIDI6IEhhcmR3YXJl",
+    "key_edx": "course-v1:UPValenciaX+SIC101.2x+1T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Sistemas de Información y ordenadores, Parte 2: Hardware",
+    "url_curso": "https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-2x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/isc101.2x_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlJlc3BvbnNhYmlsaWRhZCBTb2NpYWwgQ29ycG9yYXRpdmEgeSBzdSBpbXBhY3RvIHNvYnJlIGxhIEdlc3Rp824gZGUgbGEgVGVjbm9sb2ftYSBkZSBsYSBJbmZvcm1hY2nzbg==",
+    "key_edx": "course-v1:OECx+B1156+1T2015",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Responsabilidad Social Corporativa y su impacto sobre la Gestión de la Tecnología de la Información",
+    "url_curso": "https://www.edx.org/course/responsabilidad-social-corporativa-y-su-oecx-b1156-x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/responsabilidad-social-corporativa_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlByb2dyYW1hY2nzbiBPcmllbnRhZGEgYSBPYmpldG9z",
+    "key_edx": "course-v1:MexicoX+UPEVIPN02x+T2015",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Programación Orientada a Objetos",
+    "url_curso": "https://www.edx.org/course/programacion-orientada-objetos-mexicox-upevipn02x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/upevipn02x-course_image-378x225c.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkFkbWluaXN0cmFjafNuIGRlIHByb3llY3RvcyBkZSBUZWNub2xvZ+1hcyBkZSBsYSBJbmZvcm1hY2nzbg==",
+    "key_edx": "course-v1:MexicoX+UPEVIPN03x+T32015",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Administración de proyectos de Tecnologías de la Información",
+    "url_curso": "https://www.edx.org/course/administracion-de-proyectos-de-mexicox-upevipn03x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/upevipn03x-course_image-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkludHJvZHVjY2nzbiBhIGxhIHZpc2nzbiBwb3IgY29tcHV0YWRvcjogZGVzYXJyb2xsbyBkZSBhcGxpY2FjaW9uZXMgY29uIE9wZW5DVg==",
+    "key_edx": "course-v1:UC3Mx+ISA.1x+1T2016",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Introducción a la visión por computador: desarrollo de aplicaciones con OpenCV",
+    "url_curso": "https://www.edx.org/course/introduccion-la-vision-por-computador-uc3mx-isa-1x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/isa.1x-course_image-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkPzbW8gZGlhZ25vc3RpY2FyIG1pcyBjb21wZXRlbmNpYXMgZGUgaW5ub3ZhY2nzbg==",
+    "key_edx": "course-v1:UPValenciaX+LIDER201.4x+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Cómo diagnosticar mis competencias de innovación",
+    "url_curso": "https://www.edx.org/course/como-diagnosticar-mis-competencias-de-upvalenciax-lider201-4x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/lider201.4x_thumbnail_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkxpZGVyYXpnbyBwYXJhIG1hbmRvcyBpbnRlcm1lZGlvcw==",
+    "key_edx": "course-v1:UPValenciaX+LIDER201.3x+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Liderazgo para mandos intermedios",
+    "url_curso": "https://www.edx.org/course/liderazgo-para-mandos-intermedios-upvalenciax-lider201-3x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/lider201.3x_thumbnail_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkludHJvZHVjY2nzbiBhIGxhIGdlc3Rp824gZGUgcHJveWVjdG9z",
+    "key_edx": "course-v1:UPValenciax+IGP101.x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Introducción a la gestión de proyectos",
+    "url_curso": "https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/igp101x-course_card_image-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkPzbW8gaW1wbGFudGFyIGdydXBvcyBkZSBtZWpvcmEgZGUgcHJvY2Vzb3M=",
+    "key_edx": "course-v1:UPValenciaX+GM201x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Cómo implantar grupos de mejora de procesos",
+    "url_curso": "https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/implantar-grupos-de-mejora-de-procesos_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OlZhbG9yYWNp824gZGUgRnV0Ym9saXN0YXMgY29uIGVsIE3pdG9kbyBBSFA=",
+    "key_edx": "course-v1:UPValenciaX+VF201x+1T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Valoración de Futbolistas con el Método AHP",
+    "url_curso": "https://www.edx.org/course/valoracion-de-futbolistas-con-el-metodo-upvalenciax-vf201x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/valoracion-de-futbolistas_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4Okdlc3Rp824gUGFydGljaXBhdGl2YSAoSGlnaCBJbnZvbHZlbWVudCBXb3JrIFByYWN0aWNlcyk=",
+    "key_edx": "course-v1:UPValenciaX+GP201x+1T2017_2",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Gestión Participativa (High Involvement Work Practices)",
+    "url_curso": "https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/gp201x-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkRpc2XxbyBkZSBFc3RyYXRlZ2lhcyBFeGl0b3NhcyB5IEFjY2lvbmVzIEluY29udGVuaWJsZXM=",
+    "key_edx": "course-v1:GalileoX+CNeg001Rx+3T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Diseño de Estrategias Exitosas y Acciones Incontenibles",
+    "url_curso": "https://www.edx.org/course/diseno-de-estrategias-exitosas-y-galileox-cneg001rx-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/cneg001rx_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4Okdlc3Rp824gZGUgUHJveWVjdG9zIGRlIERlc2Fycm9sbG8=",
+    "key_edx": "course-v1:IDBx+IDB6x+T22017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Gestión de Proyectos de Desarrollo",
+    "url_curso": "https://www.edx.org/course/gestion-de-proyectos-de-desarrollo-idbx-idb6x-3",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/idb6x-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4OkRhdG9zIHBhcmEgbGEgZWZlY3RpdmlkYWQgZGUgbGFzIHBvbO10aWNhcyBw+mJsaWNhcw==",
+    "key_edx": "course-v1:IDBx+IDB10x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Datos para la efectividad de las políticas públicas",
+    "url_curso": "https://www.edx.org/course/datos-para-la-efectividad-de-las-idbx-idb10x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/idb10x_thumbnail.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4Okdlc3Rp824gZGUgZ29iaWVybm9zIHN1Ym5hY2lvbmFsZXMgcGFyYSByZXN1bHRhZG9z",
+    "key_edx": "course-v1:IDBx+IDB1x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Gestión de gobiernos subnacionales para resultados",
+    "url_curso": "https://www.edx.org/course/gestion-de-gobiernos-subnacionales-para-idbx-idb1x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/idb1x_managing_course_featured378x225_0.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkZpbmFuemFzIFBlcnNvbmFsZXM=",
+    "key_edx": "course-v1:JaverianaX+PUJ.E.1601x.3+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Finanzas Personales",
+    "url_curso": "https://www.edx.org/course/finanzas-personales-javerianax-puj-e-1601x-3-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/puj.e.1601x.3-course_card12042015-378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkVudHJlcHJlbmV1cnNoaXAgMTAyOiC/UXVlIHB1ZWRlcyBoYWNlciBwb3IgdHUgY2xpZW50ZT8=",
+    "key_edx": "course-v1:MITx+15.390.2x_SPA_1+2T2016",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Entrepreneurship 102: ¿Que puedes hacer por tu cliente?",
+    "url_curso": "https://www.edx.org/course/entrepreneurship-102-que-puedes-hacer-mitx-15-390-2x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/entrepreneurship-102_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkVudHJlcHJlbmV1cnNoaXAgMTAxOiC/UXVp6W4gZXMgdHUgY2xpZW50ZT8=",
+    "key_edx": "course-v1:MITx+15.390.1x_SPA+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Entrepreneurship 101: ¿Quién es tu cliente?",
+    "url_curso": "https://www.edx.org/course/entrepreneurship-101-quien-es-tu-cliente-mitx-15-390-1x-1",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/entrepreneurship-101_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkxpZGVyYW5kbyBlbCBEZXNhcnJvbGxvIFNvc3RlbmlibGUgZGUgbGFzIENpdWRhZGVz",
+    "key_edx": "course-v1:IDBx+IDB4x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Liderando el Desarrollo Sostenible de las Ciudades",
+    "url_curso": "https://www.edx.org/course/liderando-el-desarrollo-sostenible-de-idbx-idb4x-2",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/liderando-el-desarrollo-sostenible-de-las-ciudades_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  },
+  {
+    "id_curso": "ZWR4Okdlc3Rp824gZGUgUmllc2dvcyBwYXJhIGxhIHNvc3RlbmliaWxpZGFkIG9yZ2FuaXphY2lvbmFs",
+    "key_edx": "course-v1:JaverianaX+GESR1.0x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Gestión de Riesgos para la sostenibilidad organizacional",
+    "url_curso": "https://www.edx.org/course/gestion-de-riesgos-para-la-javerianax-gesr1-0x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/course-image_378x225_1.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkPzbW8gQ29udmVydGlyc2UgZW4gdW4gTO1kZXIgRXhpdG9zbyAoRW50cmVuYW1pZW50byBkZSBMaWRlcmF6Z28gSW5jbHVzaXZvKQ==",
+    "key_edx": "course-v1:CatalystX+IL-BSL.S1x+2T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo)",
+    "url_curso": "https://www.edx.org/course/como-convertirse-en-un-lider-exitoso-catalystx-il-bsl-s1x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/il-bsl.s1x_378x225.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4OkltcGFjdG8gZGUgbGEgSW52ZXN0aWdhY2nzbiBkZSBNZXJjYWRvcw==",
+    "key_edx": "course-v1:JaverianaX+INVM1.0x+1T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Impacto de la Investigación de Mercados",
+    "url_curso": "https://www.edx.org/course/impacto-de-la-investigacion-de-mercados-javerianax-invm1-0x",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/impacto.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Básico"
+  },
+  {
+    "id_curso": "ZWR4Ok51ZXZhcyBUZW5kZW5jaWFzIGVuIGxvcyBUcmF0YWRvcyBDb21lcmNpYWxlcyBlbiBBbelyaWNhIExhdGluYQ==",
+    "key_edx": "course-v1:IDBx+IDB5x+1T2017",
+    "plataforma_curso": "edx",
+    "nombre_curso": "Nuevas Tendencias en los Tratados Comerciales en América Latina",
+    "url_curso": "https://www.edx.org/course/nuevas-tendencias-en-los-tratados-idbx-idb5x-0",
+    "imagen_curso": "https://www.edx.org/sites/default/files/course/image/promoted/idbx5_thumbnail.jpg",
+    "costo_curso": "Gratis",
+    "nivel_curso": "Intermedio"
+  }
+]
