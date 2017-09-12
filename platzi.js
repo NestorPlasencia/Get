@@ -216,7 +216,6 @@ var request = require('request'),
 
 								curso.nombre_instructores_curso = nombre_instructores_curso
 								curso.id_instructores_curso = id_instructores_curso
-								
 								// BLOQUE DE ACTUALIZACION / CREACION
 
 								if (!fs.readFileSync('json/cursos-platzi.json', 'utf8')) {
@@ -276,7 +275,7 @@ var request = require('request'),
 										if (clase == "icon-doc") { tipo = "Lectura" }
 										if (clase == "icon-play_A") { tipo = "Video" }
 										if (clase == "icon-cog") { tipo = "Subiendo" }											
-										var instructor_tema = $(this).find('.MaterialAuthor-name').html()
+										//var instructor_tema = $(this).find('.MaterialAuthor-name').html()
 										var tiempo_tema =  $(this).find('.MaterialMeta-duration span').text()
 										if($(this).find('a').attr('href') != null){
 											var link_tema = 'https://platzi.com' + $(this).find('a').attr('href')
@@ -284,8 +283,8 @@ var request = require('request'),
 										var material = {
 											titulo_tema: titulo_tema,
 											tipo_tema: tipo,
-											instructor_tema: instructor_tema,
-											id_instructor_tema: btoa(instructor_tema),
+											//instructor_tema: instructor_tema,
+											//id_instructor_tema: btoa(instructor_tema),
 											link_tema:	link_tema,
 											tiempo_tema: tiempo_tema,
 										}
